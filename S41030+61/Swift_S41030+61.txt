@@ -1,0 +1,37 @@
+/*
+**
+**  Swift/XRT light curve for S4 1030+61.
+**
+**  Data taken from the automatic processing at http://www.swift.psu.edu/monitoring/
+**
+**  When using these data and results in publications, please reference M.C. Stroh & A.D. Falcone 2013, ApJS, 207, 28; arXiv: 1305.4949.
+**
+**  Key:
+**
+**   BinCenter      - Center of time bin (MJD)
+**   BinHW          - One-half of the full time bin size (days)
+**   Rate           - The background subtracted, PSF corrected and pile-up corrected source count rate (cts/s).
+**   RateError      - 1 sigma error in source count rate (cts/s)
+**   FracExp        - Conversion factor between bin size and observing time
+**   Mode           - 0 if in Windowed Timing (WT)
+**                    1 if in Photon Counting (PC)
+**
+**
+**  Upper limits have an error listed as -1.00000.
+**
+*/
+      BinCenter          BinHW           Rate      RateError        FracExp  Mode
+   54897.417727       0.198331        0.01578        0.00226        0.12780     1
+   55333.896260       0.201672        0.05494        0.00394        0.14128     1
+   55335.914235       0.075997        0.05173        0.00405        0.33951     1
+   55341.132117       0.074777        0.06870        0.00446        0.37473     1
+   55386.829860       0.066265        0.05575        0.00401        0.42224     1
+   55437.103793       0.076694        0.05001        0.00373        0.38211     1
+   55488.230323       0.076477        0.09780        0.00628        0.35822     1
+   55670.317691       0.039901        0.05210        0.00576        0.31781     1
+   55670.481589       0.069766        0.04458        0.00502        0.20557     1
+   57430.751653       0.037084        0.05839        0.00531        0.44975     1
+   57433.466317       0.435764        0.05360        0.00593        0.02778     1
+   57436.661671       0.108433        0.06501        0.00755        0.12404     1
+   57505.656169       0.036909        0.10000        0.00661        0.45586     1
+   57570.191421       0.045261        0.07056        0.00555        0.36906     1
