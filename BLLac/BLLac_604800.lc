@@ -1,0 +1,1011 @@
+SIMPLE  =                    T /Dummy Created by MWRFITS v1.10                  BITPIX  =                    8 /Dummy primary header created by MWRFITS         NAXIS   =                    0 /No data is associated with this header          EXTEND  =                    T /Extensions may (will!) be present               CHECKSUM= 'LOA5NL63LLA3LL33'   / HDU checksum updated 2026-09-15T14:50:09       DATASUM = '         0'         / data unit checksum updated 2026-09-15T14:50:09 END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             XTENSION= 'BINTABLE'           / binary table extension                         BITPIX  =                    8 / array data type                                NAXIS   =                    2 / number of array dimensions                     NAXIS1  =                   65 / length of dimension 1                          NAXIS2  =                  915 / length of dimension 2                          PCOUNT  =                    0 / number of group parameters                     GCOUNT  =                    1 / number of groups                               TFIELDS =                   16 / number of table fields                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** End of mandatory fields ***                                        COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column names ***                                                   COMMENT                                                                         TTYPE1  = 'START   '           / start time of interval in MET                  COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         COMMENT                                                                         COMMENT  *** Column formats ***                                                 COMMENT                                                                         TFORM1  = 'D       '                                                            TUNIT1  = 's       '           / Unit of time                                   TTYPE2  = 'STOP    '           / stop time of interval in MET                   TFORM2  = 'D       '                                                            TUNIT2  = 's       '           / Unit of time                                   TTYPE3  = 'NAME    '           / LAT source name                                TFORM3  = '6A      '           /                                                TTYPE4  = 'RA      '           / RA                                             TFORM4  = 'E       '                                                            TUNIT4  = 'deg     '           / Unit of RIGHT ASCENSION                        TTYPE5  = 'DEC     '           / Dec                                            TFORM5  = 'E       '                                                            TUNIT5  = 'deg     '           / Unit of DECLINATION                            TTYPE6  = 'FLUX_1000_300000'                                                    TFORM6  = 'E       '                                                            TUNIT6  = 'photons/cm**2/s'                                                     TTYPE7  = 'ERROR_1000_300000'                                                   TFORM7  = 'E       '                                                            TUNIT7  = 'photons/cm**2/s'                                                     TTYPE8  = 'UL_1000_300000'                                                      TFORM8  = 'L       '                                                            TTYPE9  = 'FLUX_300_1000'                                                       TFORM9  = 'E       '                                                            TUNIT9  = 'photons/cm**2/s'                                                     TTYPE10 = 'ERROR_300_1000'                                                      TFORM10 = 'E       '                                                            TUNIT10 = 'photons/cm**2/s'                                                     TTYPE11 = 'UL_300_1000'                                                         TFORM11 = 'L       '                                                            TTYPE12 = 'FLUX_100_300000'                                                     TFORM12 = 'E       '                                                            TUNIT12 = 'photons/cm**2/s'                                                     TTYPE13 = 'ERROR_100_300000'                                                    TFORM13 = 'E       '                                                            TUNIT13 = 'photons/cm**2/s'                                                     TTYPE14 = 'UL_100_300000'                                                       TFORM14 = 'L       '                                                            TTYPE15 = 'DURATION'                                                            TFORM15 = 'E       '                                                            TUNIT15 = 's       '                                                            TTYPE16 = 'TEST_STATISTIC'                                                      TFORM16 = 'E       '                                                            EXTNAME = 'LIGHTCURVES'        / extension name                                 TELESCOP= 'GLAST   '           / name of telescope generating data              INSTRUME= 'LAT     '           / name of instrument generating data             EQUINOX =               2000.0 / equinox for ra and dec                         RADECSYS= 'FK5     '           / world coord. system (FK5 or FK4)               DATE    = '2026-09-15T14:34:29' / file creation date (UTC)                      TIMEUNIT= 's       '           / units for the time related keywords            TIMESYS = 'TT      '           / type of time system that is used               GPS_OUT =                    F / whether GPS time was unavailable               MJDREFI =              51910.0 / Int. part of MJD of SC clock start             MJDREFF = '7.428703703703703D-4' / Frac. part of MJD of SC clock start          OBSERVER= 'Peter Michelson'    / LAT PI name                                    ORIGIN  = 'LISOC   '           / name of organization making file               CREATOR = 'ASP/drpMonitoring ASP-07-00-00' / software and version creating file VERSION =                    1 / release version of the file                    FILENAME= 'gll_asp_0811123200_v00.fit'                                          CHECKSUM= 'ODHeQCFZOCFbOCFZ'   / HDU checksum updated 2026-09-15T14:50:09       DATASUM = '1947187830'         / data unit checksum updated 2026-09-15T14:50:09 END                                                                                                                                                                                                                                             A¨íB    A¨§∑    BL LacC•W
+B)¨2S1)ë"F2õ≈1√Q»T3b9$3N
+FI® A›†éA¨§∑    A¨∑,    BL LacC•W
+B)¨2SÈ<0èÙT3	ZÆ2D‡mT4áÒ3k˘gTI® @ï˘yA¨∑,    A¨…°    BL LacC•W
+B)¨2WÉ1>¿óT3gß2Yä˘T4íÙ˙3ÜÙTI® Aá_A¨…°    A¨‹    BL LacC•W
+B)¨2Øˆ˛1†éMT2ÚH»2ŸT3≈q2–Â?TI® A#∏?A¨‹    A¨Óã    BL LacC•W
+B)¨28âƒ/¸°ìT37Ôõ2@6%T4:%Õ3É‰ïTI® @ÍÃ˙A¨Óã    A≠     BL LacC•W
+B)¨2Rp‰0âzT3äE˘2äl5T4hx&3™ΩTI® @Ñ⁄àA≠     A≠u    BL LacC•W
+B)¨2)J%0≠≠T2ÏÎ2”∫T3 Ò37˜TI® @√æA≠u    A≠%Í    BL LacC•W
+B)¨1\	.∑T3∏J2"¶◊T3‰$´3ÅˆTI® >/í™A≠%Í    A≠8_    BL LacC•W
+B)¨2h¢‘03OÑT324˛6T3Ì¶~3/PTI® AXÈA≠8_    A≠J‘    BL LacC•W
+B)¨1õ÷g0¨ŸT37‰í2FjÓT4Ni34SATI® @¶¢A≠J‘    A≠]I    BL LacC•W
+B)¨2¢“¬1ï€ﬂT39ﬁè2B0,T4	∂3∫éTI® ATYﬁA≠]I    A≠oæ    BL LacC•W
+B)¨2ó˘È0µ££T3[Æ–2\ƒWT4,ƒ:3:YTI® AI©A≠oæ    A≠Ç3    BL LacC•W
+B)¨2=1&zoT3Ü–ü2É.:T4[ÑÓ3èk™TI® @˚“mA≠Ç3    A≠î®    BL LacC•W
+B)¨2_„’1uÓT32èD2?-êT40á3é»ûTI® @ƒ†ÏA≠î®    A≠ß    BL LacC•W
+B)¨2'ìm0,TfT3&ﬂ1ØÂ6T3‘†‰3TI® @á£ïA≠ß    A≠πí    BL LacC•W
+B)¨2LW0ö`•T3>k2Vº_F4b≤3^fRFI® B9Ä@A≠πí    A≠Ã    BL LacC•W
+B)¨1Â ï1…˙T3Ù2*H¸T4k‡35†TI® @b∑A≠Ã    A≠ﬁ|    BL LacC•W
+B)¨2\ûx1[ÔAT3V2_2LÃ T3ªB53)hFI® A“Ö÷A≠ﬁ|    A≠Ò    BL LacC•W
+B)¨1Á{˘/ñT30¸ñ2D¸NT3⁄Èï3W'¡TI® ?{à]A≠Ò    AÆf    BL LacC•W
+B)¨2Ωp0Õ⁄T3`J1à˝úT3·)Ä1˚Ê´TI® @v©AÆf    AÆ€    BL LacC•W
+B)¨2ó}¥1õˇãT2¿è(1ˇîkT3°nÜ2ÒÕBTI® @»úNAÆ€    AÆ(P    BL LacC•W
+B)¨2«y`1&gxT3¶dB2ÜuMT4Mƒ3u?FI® BíÕAÆ(P    AÆ:≈    BL LacC•W
+B)¨1Ëæ≠1‡tT39`Ù2AˇıT3·Å'3JTI® @àohAÆ:≈    AÆM:    BL LacC•W
+B)¨2¿Î1•ˇT3/!£2+>5T4ëäõ3m%eTI® AºWAÆM:    AÆ_Ø    BL LacC•W
+B)¨2u§1?Ö¡T3Ñ‹∫2\…‡T4p⁄≥3ÇmFI® B(üAÆ_Ø    AÆr$    BL LacC•W
+B)¨2æh#0í.‡T3F%2HuT4%ê3Y®	FI® A÷ÒŒAÆr$    AÆÑô    BL LacC•W
+B)¨2&°¡12J◊T3ÖU¡2n´ÏT4K§3H^√TI® Aæ1GAÆÑô    AÆó    BL LacC•W
+B)¨2âC1äT·T3QÔ2ïÚÀF4,,3V»∂FI® Bw¥AÆó    AÆ©É    BL LacC•W
+B)¨2]ˇ‹1o);T3âÂe2çåT3ÙÆ13$íPTI® AL∑∑AÆ©É    AÆª¯    BL LacC•W
+B)¨2§Œ@1ùfÈT3Ür2ZóƒT4Öq∏3åıFI® B@p}AÆª¯    AÆŒm    BL LacC•W
+B)¨2ìí0H¢ÎT3u»26\ÂT4Ba3OáoTI® A§ã±AÆŒm    AÆ‡‚    BL LacC•W
+B)¨1ﬂTt.-h∏T2›dM0øg•T4√°4abWTI®     AÆ‡‚    AÆÛW    BL LacC•W
+B)¨2B≠x1NFJT2»õ¬2˚ÔT4™#3EÂÖTI® AïUAÆÛW    AØÃ    BL LacC•W
+B)¨2&~Ë1N~’T3áÎí2sÄ#T4}˛Ó3Éí†TI® A.á’AØÃ    AØA    BL LacC•W
+B)¨2∞3P1ü©\T30µJ2B˛T3Ê@136OFI® AÛΩôAØA    AØ*∂    BL LacC•W
+B)¨3e
+2Ω÷F3€∫ú2≥U¶F4¸~π3©∆’FI® C–¢AØ*∂    AØ=+    BL LacC•W
+B)¨2¨kß1§ÈXT3©s3gXMT4£3gXMFI® Bú~AØ=+    AØO†    BL LacC•W
+B)¨1'7.+>˜›T3b&—3ı_T3Ko3s
+TI®     AØO†    AØb    BL LacC•W
+B)¨1Û_1?T2 	ª2ﬁ_T3…ôg3O„nTI® ?-e≥AØb    AØtä    BL LacC•W
+B)¨2
+…í1-:°T3f¿D2pc–T4G˘ô3|¸TI® @Ωg®AØtä    AØÜˇ    BL LacC•W
+B)¨2Ç]T1ÇXÉT3®ç2M
+›T3ı)ï2˛íTI® @©QœAØÜˇ    AØôt    BL LacC•W
+B)¨2l6r1x≠¥T3<Z$2Iˆ◊T4CY]3@M≈TI® AŸ>AØôt    AØ´È    BL LacC•W
+B)¨2–M1π∞jT3jﬁ1ô¬¸T3Ùî£3d)TI® AbffAØ´È    AØæ^    BL LacC•W
+B)¨1‡¥Ï.gûT3‰32ÅÙìT3ßÌ≥3Ç¶TI® <∑„uAØæ^    AØ–”    BL LacC•W
+B)¨2÷ßÃ1∫PàT3ÉPx2å&ËF4Ä·Ã3~6FI® BÄ≤óAØ–”    AØ„H    BL LacC•W
+B)¨2Ñõ1v˛∑T3Ü22k†∏T4'dê3hØ≤FI® BZ·AØ„H    AØıΩ    BL LacC•W
+B)¨2w£]1¨ÌF3í+2fLT4yYY3prAFI® BÉ^ÚAØıΩ    A∞    BL LacC•W
+B)¨2Çpo1ÉπGT32}¸29ÃnT40Ü3hzÍTI® AâÅOA∞    A∞SÄ   BL LacC•W
+B)¨2í«#1år(T3oÑŒ2V£6T4p»⁄3•€ﬂFI® B/|ŸA∞SÄ   A∞é    BL LacC•W
+B)¨2Ç=j1éøT31∂õ2\‘·T4BwW3ÄÌZTI® A/x%A∞é    A∞»Ä   BL LacC•W
+B)¨2{¿1ç ‡T3J?2uLáT4É\∫3®8TI® @ÀÌ	A∞»Ä   A∞)    BL LacC•W
+B)¨1€‚41û)≤T2⁄1⁄2L|‘T4\é˜3±î)TI® ?⁄ËA∞)    A∞2=Ä   BL LacC•W
+B)¨2tt«0DL≥T3Ñ´–2ÄœT4çi;3ú˚ıTI® A¨å1A∞2=Ä   A∞;x    BL LacC•W
+B)¨2gõ÷0éÒTT3∆∆2-∫ÔT4JrD3c*ØTI® @”øA∞;x    A∞D≤Ä   BL LacC•W
+B)¨1√Q/,˝	ÿT36Wo2i_]T47C^3ü^STI® ?@$A∞BÄ   A∞KJ    BL LacC•W
+B)¨2X/£ T3w∆w2ùk£T4ÉˆZ3µAÓTI® A÷ÙA∞KJ    A∞TÑÄ   BL LacC•W
+B)¨2ØD›1¶ ÁT3uòÒ2iáVT4Æ¶É3√ïFI® B9»·A∞TÑÄ   A∞]ø    BL LacC•W
+B)¨2z∂|0‰óT3.ò2√–T4JA3XnÁTI® A≤-ÀA∞]ø    A∞f˘Ä   BL LacC•W
+B)¨2Áë0πièT3
+„æ2DäT45÷Â3¢ÃjFI® A‡xyA∞f˘Ä   A∞p4    BL LacC•W
+B)¨2ïVu1ìlHT3§øö2¨T4§π“3¨t•TI® AêjﬂA∞p4    A∞ynÄ   BL LacC•W
+B)¨2ÃCò0≤Ÿ∆T3CW⁄2b	wT4jô3srFI® AÓÿA∞ynÄ   A∞Ç©    BL LacC•W
+B)¨2ºÅ	1
+èF3ai¸2zîMT4™T3GÚ˛FI® Báœ˜A∞Ç©    A∞ã„Ä   BL LacC•W
+B)¨2Jn15]:T3èπ2Üi/T4†ã3®ÆCTI® AHΩA∞ã„Ä   A∞ï    BL LacC•W
+B)¨2û∑ 1/fˆF3Ñ©§2Ω·T4S]3è—˜FI® BãwáA∞ï    A∞ûXÄ   BL LacC•W
+B)¨2G}ß1D’yT3Y€Ó2Q\ET4≥^ 3≠õPTI® A¬[A∞ûXÄ   A∞ßì    BL LacC•W
+B)¨2Ôëí0âø©T3!'ï2?ÜT4mÀm3ÅâVTI® AÉõ’A∞ßì    A∞∞ÕÄ   BL LacC•W
+B)¨2∞y1˙µtF3√ÜÚ2∏{F4º¨3•´cFI® BÕóZA∞∞ÕÄ   A∞∫    BL LacC•W
+B)¨2∫õé1,fF3ùÌ2è3”T4±l-3©JFI® Bû>:A∞∫    A∞√BÄ   BL LacC•W
+B)¨2èq∑1ê•cT3Ænı2í
+DT4∞πŒ3≥¢^FI® B/!ÃA∞√BÄ   A∞Ã}    BL LacC•W
+B)¨2‘h1æ◊‰T3πâ72îï2T4Üµ„3ú∫˛FI® BbA∞Ã}    A∞’∑Ä   BL LacC•W
+B)¨2q˙£1∏”pF3§Fà2ãgØT4Cê53Ö09FI® B)HA∞’∑Ä   A∞ﬁÚ    BL LacC•W
+B)¨2õ≥1ú“–T3îÂº2ì'îT4lï¿3ºË¬FI® BöA∞ﬁÚ    A∞Ë,Ä   BL LacC•W
+B)¨2÷m´1πp–T3mÌ+2`ì{T4bŸ3>˙»FI® AÚß«A∞Ë,Ä   A∞Òg    BL LacC•W
+B)¨2‘—W1æüT3ä8è2©I¨F4≈÷Z3∂ﬁôFI® BòFA∞Òg    A∞˙°Ä   BL LacC•W
+B)¨2˚¶¡1·9vT3:≥;2W®8T4SÜ›3∑√)FI® A—¨ÇA∞˙°Ä   A±‹    BL LacC•W
+B)¨2µeã1•à£T3CÜ⁄2PˆÕT4D˘U3öF€FI® AÎIA±‹    A±Ä   BL LacC•W
+B)¨3 Ú29‡F3∫B+2®ÜQF5˚@3≥æFFI® C È¥A±Ä   A±Q    BL LacC•W
+B)¨2û¬Ó1‰¡WF3∆Çc2ü;2T4Ä_˝3î—ÊFI® Bn¶ﬁA±Q    A±ãÄ   BL LacC•W
+B)¨2Œt
+1øI˘T3©≈†2ö%wT4¨‚3ÕFI® B8A±ãÄ   A±(∆    BL LacC•W
+B)¨2âö–1òMbT3ÄF≤2Å+T4Zo◊3ú	FI® B0™A±(∆    A±2 Ä   BL LacC•W
+B)¨2≤Ÿ_1ßëT3©ÛÙ2Ñ≈˜T4võ3ïuBFI® B2Ç
+A±2 Ä   A±;;    BL LacC•W
+B)¨2ø52 ¨F3C)P2\ˆ0T4”√3?®FI® B5kA±;;    A±DuÄ   BL LacC•W
+B)¨2ó1‚1 F3≠ug2∞¿HF4¥˜Œ3¢ FI® Bîá≈A±DuÄ   A±M∞    BL LacC•W
+B)¨2ï†‚1ÿ^	F3t_Ë2_S∂T4"°√3RÊ£FI® B4®A±M∞    A±VÍÄ   BL LacC•W
+B)¨2≥Ì¥1‚EéF3∑à
+2•ÄåF4º‹◊3¢1	FI® BˇΩvA±VÍÄ   A±`%    BL LacC•W
+B)¨2ÎÁw1Ã"≥T3üL˙2ük∂T3ﬁW3Nô{FI® A…aπA±`%    A±i_Ä   BL LacC•W
+B)¨2ßC1ﬁ‰@F3ìL‘2•ªF4ñ‡ 3ùıiFI® Bë–A±i_Ä   A±rö    BL LacC•W
+B)¨2~Â71?-?T3Y\U2ZÙ¿F4nõ 3b•dFI® Bb	6A±rö    A±{‘Ä   BL LacC•W
+B)¨2e},1{ﬁT3™Ë¸2çòëT4ûa«3ç|∫TI® AæÛ◊A±{‘Ä   A±Ö    BL LacC•W
+B)¨2¬u„1»g¡T3ßT2®·ŸF4÷Ï!3ƒ#»FI® BnZA±Ö    A±éIÄ   BL LacC•W
+B)¨2\Ïo1ªúÑF3rT2gÖT4¶Ê3e	nFI® BπäA±éIÄ   A±óÑ    BL LacC•W
+B)¨2¶B¿1€Î\F3¡¬Q2í9…T4®-—3üÉîFI® B£‚A±óÑ    A±†æÄ   BL LacC•W
+B)¨2˝Â2äôF3û≈2îdÌF4±bŸ3ê–uFI® CkA±†æÄ   A±©˘    BL LacC•W
+B)¨2éï∞1Ω#sF3∑∆é2•(F4…z3©nFI® Bﬁ⁄MA±©˘    A±≥3Ä   BL LacC•W
+B)¨2ò¡Ü1òö\T3—Ú›2¨üF5îÍ3÷=3FI® B‹£vA±≥3Ä   A±ºn    BL LacC•W
+B)¨2¨øÓ1“√‰F3‰äÊ2Ø€F4ËâD3£l FI® C,}ºA±ºn    A±≈®Ä   BL LacC•W
+B)¨2…ëå1æµ#T3⁄”e2Ø"F4«U™3úÈdFI® B®9A±≈®Ä   A±Œ„    BL LacC•W
+B)¨2`µ™1¿M–F3º¯s2ô¢âT4`Æ®3â◊OFI® BLæﬁA±Œ„    A±ÿÄ   BL LacC•W
+B)¨2Œπ∆1∑‰≈T3`ÓÁ2ÑxÁF4ï†„3íj¥FI® B`„UA±ÿÄ   A±·X    BL LacC•W
+B)¨2b≠K1Ö%æT3c—Ñ2áJﬂT4§z3k∏ïTI® @Ωû£A±·X    A±ÍíÄ   BL LacC•W
+B)¨2q:1Ñv\T2ü:î.1	T3Äﬁ◊3—ﬁTI® @Ωá±A±ÍíÄ   A±ÛÕ    BL LacC•W
+B)¨2o\¶1¿d‚F3?¶•2IæZT4¢¶3|D8FI® Aˇ&√A±ÛÕ    A±˝Ä   BL LacC•W
+B)¨2wtY1äEWT3Cm∫2q˜$T4k‘M3å≠TI® A¢‹A±˝Ä   A≤B    BL LacC•W
+B)¨2ÖÕE1å\äT3P Ò2Ö€F4n-ø3êësFI® B±A≤B    A≤|Ä   BL LacC•W
+B)¨2èeJ1óVT3Öø[2áΩ°T4ÖúŸ3ìqTI® AÉ„A≤|Ä   A≤∑    BL LacC•W
+B)¨2Ø11ÆÑ”T3zR˚2ôyF4u<3â!FI® BY\‡A≤∑    A≤!ÒÄ   BL LacC•W
+B)¨2;å1Ls·T3çº±2Äa0T4ÑË∫3Ç‚®TI® AéWA≤!ÒÄ   A≤+,    BL LacC•W
+B)¨3 ’≤2·ÿF3î*¨2´¶F4öqG3ë8FI® BˇvÊA≤+,    A≤4fÄ   BL LacC•W
+B)¨2â_d1ôênT3Ä.Æ2`˜tT4◊æ∏3Ú¨FI® B ÉA≤4fÄ   A≤=°    BL LacC•W
+B)¨2s√∂1ùs-T3õ"∂2å;ÁT4ùÊ=3®TI® AnzA≤¨_    A≤µôÄ   BL LacC•W
+B)¨2V†1§2üFøÄ  øÄ  T4◊I3j`ÒFI® By_A≤„æ    A≤Ï¯Ä   BL LacC•W
+B)¨øÄ  øÄ  TøÄ  øÄ  T4©©3∆ATFI® AÓK-A≤ˇmÄ   A≥®    BL LacC•W
+B)¨øÄ  øÄ  T3ØG	2πÚfF4ÙöÅ3ÍHˇFI® B|H«A≥‚Ä   A≥    BL LacC•W
+B)¨2ä W1£ç≤T3ß¢^2ëqT4ê;&3´ùFI® AÓ˙ÂA≥    A≥$WÄ   BL LacC•W
+B)¨2Oru1w*T3çf2ÑZfT4ﬂä3ò≥FI® AœY√A≥$WÄ   A≥-í    BL LacC•W
+B)¨2±x‘1˚{nF3Ãe2∞ÂT4Ö¸·3ì≥FI® BÄØÃA≥-í    A≥6ÃÄ   BL LacC•W
+B)¨2¨x1›±mF3úTﬂ2ú0ÎF4úäÁ3á¶FI® B¢‡öA≥6ÃÄ   A≥@    BL LacC•W
+B)¨2Vq1ã≥F33Of2 ùT42òÂ3HlãFI® Br?†A≥@    A≥IAÄ   BL LacC•W
+B)¨2◊D1∏Û™T3óÔF2Ö*∏T4ÉO3ô‹¥FI® B:/!A≥IAÄ   A≥R|    BL LacC•W
+B)¨2≤Çä1éˇ,T3ò“è2çﬂ T4`@n3¢ßüFI® AÂ¸<A≥R|    A≥[∂Ä   BL LacC•W
+B)¨2…ÏÏ1øîØT3à∏Q2êL5T4'µP3à5nFI® A‰t˛A≥[∂Ä   A≥dÒ    BL LacC•W
+B)¨2≥±i1ß»ØT3âÙ¿2~˜}T4#3o∆¨FI® A˛i=A≥dÒ    A≥n+Ä   BL LacC•W
+B)¨2◊É˚1«ò«T3ç2àuT4+Aˆ3ÉπƒFI® AÕEA≥n+Ä   A≥wf    BL LacC•W
+B)¨2¢U,1≠ö>T3ª8î2î≠ªT4∞ûª3Ω“JFI® BDERA≥wf    A≥Ä†Ä   BL LacC•W
+B)¨2ı—∆1Õ˛ˆT3ÆD™2ùcôF5É≥3∆°ÓFI® BıvpA≥Ä†Ä   A≥â€    BL LacC•W
+B)¨3W¿2 ÇìF4PL2æ
+F5Bæ3ΩÉFI® C±√A≥â€    A≥ìÄ   BL LacC•W
+B)¨3çn>2;xF4T¬º2ﬂTªF5ä0Ó3‚^¯FI® D
+¬¥A≥ìÄ   A≥úP    BL LacC•W
+B)¨3a2&Ü#F3ËÇE2¶eF5Ö\3ùƒ˘FI® CìíâA≥úP    A≥•äÄ   BL LacC•W
+B)¨3?…2icF4"ƒ˜2»éF5AÎ}3ƒº„FI® Cój…A≥•äÄ   A≥Æ≈    BL LacC•W
+B)¨3Û∞2/%F3»Iê2ßYEF4Ï\43§‡|FI® C"IA≥Æ≈    A≥∑ˇÄ   BL LacC•W
+B)¨3_≠2)ı¶F4N2ÀWWF5(æ≤3—Õ[FI® CH÷A≥∑ˇÄ   A≥¡:    BL LacC•W
+B)¨3(NÂ2ÀúF3’A¥2≤U‘F4‹ˇ3õ≤ÜFI® C9rËA≥¡:    A≥ tÄ   BL LacC•W
+B)¨3òw˙2CF48“∫2Œ∏F5A%¡3ØK±FI® C‡íA≥ tÄ   A≥”Ø    BL LacC•W
+B)¨3.)a2u∏F3ﬁ•i2±^¿F5$Ç„3ÀˆÖFI® CVw%A≥”Ø    A≥‹ÈÄ   BL LacC•W
+B)¨2¯R2	’@F4Q2ﬂ7ÅF5/Hn3Â◊¡FI® CD˘AA≥‹ÈÄ   A≥Ê$    BL LacC•W
+B)¨3ív2¢xF3ÇØû2òä3F4Òïi3¡-˜FI® B€veA≥Ê$    A≥Ô^Ä   BL LacC•W
+B)¨3	Ôâ23F3µT´2ß`F52Çﬁ4u˛FI® CÚ$A≥Ô^Ä   A≥¯ô    BL LacC•W
+B)¨2Â-ı2:”F3Öï27T4˘K30∑*FI® B≤∆A≥¯ô    A¥”Ä   BL LacC•W
+B)¨2ÌUd2«F3ßª2∂ïF4àQ$3mÙ◊FI® B©70A¥”Ä   A¥    BL LacC•W
+B)¨3w2%wF3¬È¬2´Í@F4üÚ
+3^uéFI® BÔ˙kA¥    A¥HÄ   BL LacC•W
+B)¨3àû2 `πF4ä‹2·_»F5¯l3°≤ﬁFI® C nA¥HÄ   A¥É    BL LacC•W
+B)¨2’û1—T3≈9‡2¥â‹T4+C)3zÀ2FI® A›˙yA¥É    A¥&ΩÄ   BL LacC•W
+B)¨2 2˙1ƒq†T3O°y2i¸%T4e©3`ÒTI® AéÃdA¥&ΩÄ   A¥/¯    BL LacC•W
+B)¨3,#2(ÄIF3≥L.2ªù™F4Öï…3SﬂFI® B™áA¥/¯    A¥92Ä   BL LacC•W
+B)¨2öº„1ÎkF3àR2ûÅ…F4ó‘m3‘ÓFI® BìÁﬂA¥92Ä   A¥Bm    BL LacC•W
+B)¨2À≈2√GF3Ã¯_2¡&gF4ó—3ÄıFI® BöHPA¥Bm    A¥KßÄ   BL LacC•W
+B)¨2™G81Ô4F4;Ñ2æ¿∏F4√Ô3oı9FI® CÑZA¥KßÄ   A¥T‚    BL LacC•W
+B)¨2˚ ~1ﬂ£ÅT3óHA2•ÜhF4â,&3k‹>FI® Br‹™A¥T‚    A¥^Ä   BL LacC•W
+B)¨2˛ƒã1€V]T3Ô∆72∫:⁄F4≥™Y3Å÷øFI® B‘”A¥^Ä   A¥gW    BL LacC•W
+B)¨3>›©2&˘F4o±|2˘XF5\üæ3√+FI® C±2A¥gW    A¥pëÄ   BL LacC•W
+B)¨2¸B22zF4%ñB2ÊA÷F573°[ÜFI® CNÂîA¥pëÄ   A¥yÃ    BL LacC•W
+B)¨2
+æù1Ó‡T3î,◊2ùª?F4E7Ë3Xù1FI® By˜A¥yÃ    A¥ÉÄ   BL LacC•W
+B)¨2‡Ö“2-ºF3ÆXî2ÆFÿF4∫î3Ñ;lFI® B‘˙A¥ÉÄ   A¥åA    BL LacC•W
+B)¨32"§2F4©¸2ﬁ@JF5Y3¶ (FI® CV˙A¥åA    A¥ï{Ä   BL LacC•W
+B)¨30Æ{2ŸF4 ﬂÊ2∆ΩGF5 ü>3è≈	FI® C††A¥ï{Ä   A¥û∂    BL LacC•W
+B)¨2WEò1Ω—ﬂF3ok‹2s¨öT44$-3QAÈFI® BIüèA¥û∂    A¥ßÄ   BL LacC•W
+B)¨3*Ä2F3¡E≈2¥∂◊F5,03§¢FI® C
+¯A¥ßÄ   A¥±+    BL LacC•W
+B)¨2Òò2 ÆF3ª+ê2Ø]F4ØK3ÑŸóFI® BÓ6A¥±+    A¥∫eÄ   BL LacC•W
+B)¨2•˘>1™µT3Ω1§2ô T4B53_‚éFI® BıQA¥∫eÄ   A¥√†    BL LacC•W
+B)¨2Ì!x1÷n¥T3›Ê2ÆXªF4º¯®3u»'FI® B‰VkA¥√†    A¥Ã⁄Ä   BL LacC•W
+B)¨3-∂M2.ØT3¶‡2ìW∞T4]„S3`
+ºFI® BPhNA¥Ã⁄Ä   A¥÷    BL LacC•W
+B)¨3Œ2…%F3…Ê<2¡äQF4ÌøL3íìIFI® C)sA¥÷    A¥ﬂOÄ   BL LacC•W
+B)¨3ä•2ò¯F3å!Ø2ìÊàF4ãı|3R≥AFI® B˛·˚A¥ﬂOÄ   A¥Ëä    BL LacC•W
+B)¨2°Ê1·%ûF3ªr 2´∏1F4w√µ3U'„FI® B•Ô÷A¥Ëä    A¥ÒƒÄ   BL LacC•W
+B)¨2¸§1›$ÇT3•£,2Øâ—F4{ùx3rf1FI® BvG"A¥ÒƒÄ   A¥˙ˇ    BL LacC•W
+B)¨2?K2∏F3Ó©2ÃâPF4œù⁄3ó,¯FI® B„-€A¥˙ˇ    Aµ9Ä   BL LacC•W
+B)¨3•È†2PÈMF43\Õ2ÿJF5;X3öåÉFI® C’ü‡Aµ9Ä   Aµt    BL LacC•W
+B)¨2¶àŒ1«„rF3ë˝n2áÄ˛F4Ü£‚3F˚ãFI® BªÇÂAµt    AµÆÄ   BL LacC•W
+B)¨2Í`€2F3≤ 2¿åÇF4≤ào3ì+-FI® BñÊÅAµÆÄ   AµÈ    BL LacC•W
+B)¨2›uÕ2V‚F3¯bI2∑ZF4„7ﬁ3á;FI® C$¨<AµÈ    Aµ)#Ä   BL LacC•W
+B)¨3-ã2£ÃF3Ÿ"ú2∑PF4ª◊ß3uCFI® C6jAµ)#Ä   Aµ2^    BL LacC•W
+B)¨3_4ﬁ2* ÁF3◊h,2ºü@F4–wu3Å˘FI® Cse*Aµ2^    Aµ;òÄ   BL LacC•W
+B)¨3N…å23G”F4(Øî2›pF5Ω3£·FI® CbiëAµ;òÄ   AµD”    BL LacC•W
+B)¨2“É1ÀST3´$˙2√Ô·F4|ÊW3éFI® B;…áAµD”    AµNÄ   BL LacC•W
+B)¨2êª∞1›ÛF3ù¡ù2ÖVÛT4-Ì∂3GŒäFI® BR¸›AµNÄ   AµWH    BL LacC•W
+B)¨2º`1˙éF3‚XÑ2ªëçF5	u‚3û„ˇFI® CÄAµWH    Aµ`ÇÄ   BL LacC•W
+B)¨3å8;2_ù#F48Ë¿2ˆˆºF5Bc3üÅ´FI® CwŸ˜Aµ`ÇÄ   AµiΩ    BL LacC•W
+B)¨2Û3Ω2
+e[F3‹ñ«2≠áƒF4∫yˇ3tu¥FI® CíÅAµiΩ    Aµr˜Ä   BL LacC•W
+B)¨3†l2
+CF3˛l2∂±sF4∫øõ3cn)FI® C'éOAµr˜Ä   Aµ|2    BL LacC•W
+B)¨2dêê1rDQT3y∞¥2ùLxF4PDj3fv´FI® BpïAµ|2    AµÖlÄ   BL LacC•W
+B)¨3íì28ôèF4Q/á2⁄˙F5IMq3§#òFI® C·_KAµÖlÄ   Aµéß    BL LacC•W
+B)¨2Ê1Õ ñT3±>2ç+`T49G 3=X
+FI® BG®ŸAµéß    Aµó·Ä   BL LacC•W
+B)¨2†ª1§îØT3ô‚Æ2ûîóF4El3L•¶FI® B'=.Aµó·Ä   Aµ°    BL LacC•W
+B)¨3Wú2 O_F3Ùuˆ2◊œ"F4Â$"3õU,FI® BÙ∂FAµ°    Aµ™VÄ   BL LacC•W
+B)¨3òˆ2C¯F4§E2€5≤T4ŸH33º∑%FI® BºìÍAµ™VÄ   Aµ≥ë    BL LacC•W
+B)¨2Ø0m1€»F3∞Ÿt2ë0fT4wÕÃ3\w∫FI® BüÀAµ≥ë    AµºÀÄ   BL LacC•W
+B)¨2®€©1Ÿv6F4FÓ2…ƒF4ƒÍ≠3ÄÛMFI® CñìAµºÀÄ   Aµ∆    BL LacC•W
+B)¨3@2ùPF3Áì2ƒ‹ÄF4Êÿú3îm~FI® C'¢Aµ∆    Aµœ@Ä   BL LacC•W
+B)¨2›≥#1…ùÛT3ù™Å2êÔﬂT4[‹—3zì¯FI® B5«:Aµœ@Ä   Aµÿ{    BL LacC•W
+B)¨2˙’Õ1‘!T3k Ø2ZOÌT3⁄.ä3\ÉFI® AŸıAµÿ{    Aµ·µÄ   BL LacC•W
+B)¨2πö·1	F3ôÿ©2•zØF4yÉ«3TÜKFI® Bö¸„Aµ·µÄ   AµÍ    BL LacC•W
+B)¨3íù2`¡£F4ö±3xUF5nî3πÔîFI® C·–AµÍ    AµÙ*Ä   BL LacC•W
+B)¨2ºl:1ƒ‰F3Ÿ®2≥ˇ»F4©jÙ3pg]FI® BÊô≥AµÙ*Ä   Aµ˝e    BL LacC•W
+B)¨2ªî'1∏[T3g‡2v,ÜT4Fg37£òTI® A∏*ˇAµ˝e    A∂üÄ   BL LacC•W
+B)¨2æU∑1µ˘—T3îwb2^èT4s3@ÃFI® A‡ïA∂üÄ   A∂⁄    BL LacC•W
+B)¨2sÛ1áûT3ëeu1®≤íT3∆◊3TI® @gÃıA∂⁄    A∂Ä   BL LacC•W
+B)¨2á∞≤1ÍT3qC2(÷.T3≥èª2√)¯TI® Ai>A∂Ä   A∂"O    BL LacC•W
+B)¨1…\.ç‘	T3cπX2M:T4M3Ω∏TI® AÿÑA∂"O    A∂+âÄ   BL LacC•W
+B)¨2r˜1PEFT33ä¬2fƒ≈T3ëaì2‹–]TI® ?DhXA∂+âÄ   A∂4ƒ    BL LacC•W
+B)¨2PÁ91zß!T3ì5(2ä;T4}ö3ç@FI® A»™ÜA∂4ƒ    A∂=˛Ä   BL LacC•W
+B)¨2&ü≈1F¢T3î¸≤2îF4\ø˚3Q∂úFI® B(CMA∂=˛Ä   A∂G9    BL LacC•W
+B)¨2a3°1Å«:T2Å&“(Ï(<T3q€ò2º}¨TI® ?¬YLA∂G9    A∂PsÄ   BL LacC•W
+B)¨2Pår1aK,T3∂˛æ2≈µF4äà3|c∑TI® A£˛áA∂PsÄ   A∂YÆ    BL LacC•W
+B)¨2õ1@®}T3*é•2StOT3≠èê3úhTI® @+∆A∂YÆ    A∂bËÄ   BL LacC•W
+B)¨2Rsp1~5pT3C∞Î2:é#T3Øá·2Õ†0TI® @ö†A∂bËÄ   A∂l#    BL LacC•W
+B)¨3œW2À”F3è√2ó»GF4êT3W±©FI® Bˆ<¬A∂l#    A∂u]Ä   BL LacC•W
+B)¨2®ôØ2ô.F4˛2…@]F4˘˙Â3êﬂÕFI® C◊A∂u]Ä   A∂~ò    BL LacC•W
+B)¨1üní* =0T3ó.2âv<T4@¡3A◊TI® A 
+7A∂~ò    A∂á“Ä   BL LacC•W
+B)¨2àﬂn1ãçT39§2`À>T4ùP3ÅÊTI® A°q/A∂á“Ä   A∂ë    BL LacC•W
+B)¨1à∫!,PèT3O%Í2|ûT3†mΩ1•∂ˆTI®     A∂ë    A∂öGÄ   BL LacC•W
+B)¨3;Ùp2,ÜcF4,∑2 x"F5!3≥=6FI® CHr.A∂öGÄ   A∂£Ç    BL LacC•W
+B)¨3.˚Y2 #F4+-2⁄AF5
+be3òµFI® Ck=A∂£Ç    A∂¨ºÄ   BL LacC•W
+B)¨2ËÇa1“Ö{T3œTL2ûÓT4;‹3K»ÕFI® B] A∂¨ºÄ   A∂µ˜    BL LacC•W
+B)¨2∂hv1∑ΩT3Yß÷2Ä[RT4K3∑⁄TI® AR°gA∂µ˜    A∂ø1Ä   BL LacC•W
+B)¨2C&(1WfØT3xL2pæúT3~w%-”˛(TI®     A∂ø1Ä   A∂»l    BL LacC•W
+B)¨2åC∏1ò˚T3<@”2aöHT3õßﬂ2≈ZpTI® @‘∑MA∂»l    A∂—¶Ä   BL LacC•W
+B)¨2"ó1p˙ÁT3Dâ2T»?T3¢˚s2ÒWÉTI® ?Ç;öA∂—¶Ä   A∂⁄·    BL LacC•W
+B)¨1π¡,–ìT3jÔª2ê&T3˙ık3--ıTI® @GX»A∂⁄·    A∂‰Ä   BL LacC•W
+B)¨2≠’1¶ºET3ÌqŒ2≥≈T47& 3jNFI® AÓ A∂‰Ä   A∂ÌV    BL LacC•W
+B)¨2øûƒ1æ√T2∂@0ËWT3î2«DcTI® @ô—A∂ÌV    A∂ˆêÄ   BL LacC•W
+B)¨2≥Æ≤1µkT3
+’52NÿfT3ØÍs2‘;ˆTI® @ÿ?§A∂ˆêÄ   A∂ˇÀ    BL LacC•W
+B)¨1©y9,Œç!T33U`2xO¥T3k;/Å⁄<TI®     A∂ˇÀ    A∑	Ä   BL LacC•W
+B)¨2x	(1öz|T3vÌù2Ä©T4G¯ì3^\
+TI® AnbA∑	Ä   A∑@    BL LacC•W
+B)¨2;ó!1`W¿T3ãw2=Æ˛T3¸¢,µ\®TI®     A∑@    A∑zÄ   BL LacC•W
+B)¨2√91∂oUT3ëYs2}º'T3·O3#ëÂFI® AÒœlA∑zÄ   A∑$µ    BL LacC•W
+B)¨1∑j0◊9üT2√oƒ2-|)T2˝+x+SWÀTI®     A∑$µ    A∑-ÔÄ   BL LacC•W
+B)¨2Ÿ}m1ºjqT3b?ö2xØT4
+qX3
+m‚TI® Aó€A∑-ÔÄ   A∑7*    BL LacC•W
+B)¨1€“Ã1"8’T3î“'2Å±(T4Y⁄z3ZŒôTI® A0LA∑7*    A∑@dÄ   BL LacC•W
+B)¨2Ñ∂ﬁ1äé!T3B_–2a	÷T3©02’÷©TI® @Òà9A∑@dÄ   A∑Iü    BL LacC•W
+B)¨2Çß$1≤?—F3õ/Å2k˜ÍT4+Q@3%?‰FI® BK‚mA∑Iü    A∑RŸÄ   BL LacC•W
+B)¨2‡b∏1–Ñ¸T3E„\2bãµT4!J!3*[rTI® Aê<FA∑RŸÄ   A∑\    BL LacC•W
+B)¨2îgÈ1çulT3ì¶2ÄjöT4)EÃ3)¨TI® A∆ÌOA∑\    A∑eNÄ   BL LacC•W
+B)¨2»4{1⁄¿/T3ØpÀ2•+RT4 @ò3)VÈTI® Aã!IA∑eNÄ   A∑nâ    BL LacC•W
+B)¨27˛|1|›T3{’»2î“¢T3˝›%3;JlTI® ?‡´ÂA∑nâ    A∑w√Ä   BL LacC•W
+B)¨2»Jì1¥˙oT3bJ2g)^T3‡¥∏3/ÂSFI® A‰˙ÕA∑w√Ä   A∑Ä˛    BL LacC•W
+B)¨2®{c1„Ò–F3†q—2ÑùzT4?È33D öFI® BzÔ+A∑Ä˛    A∑ä8Ä   BL LacC•W
+B)¨2≠µ.1´®-T3É€^2(IF4@ä2ˇΩFI® B>∑ÍA∑ä8Ä   A∑ìs    BL LacC•W
+B)¨2‰!¸1‹˙¯T3È2¥\T4lcQ3~ıcFI® B;3A∑ìs    A∑ú≠Ä   BL LacC•W
+B)¨1¢.W,≈‚{T3o1·2óœ-T4ô ‰3}b¢TI® AïVA∑ú≠Ä   A∑•Ë    BL LacC•W
+B)¨2ŒÅÇ1π÷∫T3∫¶72ö[=T4G≠É3WÔIFI® BHSáA∑•Ë    A∑Ø"Ä   BL LacC•W
+B)¨2”Ap1ƒ—¨T3ìŸ%2ç£€T4™L3[LFI® BÚîA∑Ø"Ä   A∑∏]    BL LacC•W
+B)¨2ÛaN1“FsT3ó¸2®ŸF4Å“3KFI® BtÈA∑∏]    A∑¡óÄ   BL LacC•W
+B)¨2`jÿ1ø F3∂ﬂÖ2£‘«F4ô\3scïFI® B∞A∑¡óÄ   A∑ “    BL LacC•W
+B)¨3M1‘i5F3ƒÔe2å¿=F4‘T3d˛FI® Cs?A∑ “    A∑‘Ä   BL LacC•W
+B)¨2ØÉA1∂"0T3u_”2¶ €T3Ã∆…3ÕTI® AÍ©A∑‘Ä   A∑›G    BL LacC•W
+B)¨2ê+À1û˛ÙT3âê]2é5£T44˝3I‘OTI® AJ3HA∑›G    A∑ÊÅÄ   BL LacC•W
+B)¨2•›21°^éT3∫gâ2åÏ@T4FC3P4FI® B!ÀA∑ÊÅÄ   A∑Ôº    BL LacC•W
+B)¨2ΩêA1Ï[ÍF3â¸Ñ2ô,F4åÎù3yÂÎFI® B´ÒóA∑Ôº    A∑¯ˆÄ   BL LacC•W
+B)¨3(g&2'L_F4≥ô2Œ?ÂF4Ô7L3öFI® C…•A∑¯ˆÄ   A∏1    BL LacC•W
+B)¨2±ÎÑ1Ô∆êF3ØX2§ißF4õz3~{üFI® B∑%åA∏1    A∏kÄ   BL LacC•W
+B)¨2ïg:1”1 F3ÚÎ2±§˘F4÷O'3Ç>¨FI® C
+0A∏kÄ   A∏¶    BL LacC•W
+B)¨3+Hc2 h-F3ª°Ú2Øk>F4Ò‰3éı⁄FI® C<î=A∏¶    A∏‡Ä   BL LacC•W
+B)¨2Ó ‡2>{≤F3ﬁZu2ﬂIíT4ºn,3æ,FI® BeÓqA∏‡Ä   A∏'    BL LacC•W
+B)¨3y1˛wT3Ô%Õ2›ø¯F4√)‡3î9¶FI® Bö£A∏'    A∏0UÄ   BL LacC•W
+B)¨2ü*~1‰…RF3™{•2ÆptF4ZW63RÇÁFI® B{ÙKA∏0UÄ   A∏9ê    BL LacC•W
+B)¨2óÿ1Ô/F3ñâÎ2©‘≤F4î{∂3áchFI® BÑ≥ôA∏9ê    A∏B Ä   BL LacC•W
+B)¨3%2'F4!Õ72ŸNJF5V[3ùËÔFI® Ch…—A∏B Ä   A∏L    BL LacC•W
+B)¨2°?1÷
+F3ªL
+2Æ<ºF4oÂÕ3RÃ]FI® B†~A∏L    A∏U?Ä   BL LacC•W
+B)¨2‡2òÂF4]∏2Íƒ~F5Û-3æ4XFI® BıÙA∏U?Ä   A∏^z    BL LacC•W
+B)¨3G-Ø2_üT4@:3,FxT4óõ˝3ƒª≥TI® @ÖNŒA∏^z    A∏g¥Ä   BL LacC•W
+B)¨3béÛ2_OÓT3™Bﬂ2»>ÓT4ôY3®  TI® A©´FA∏g¥Ä   A∏pÔ    BL LacC•W
+B)¨2Â‘∞1Í7#T3Ö”P2öZT4îd3ô®ıTI® AésëA∏pÔ    A∏z)Ä   BL LacC•W
+B)¨2Å˙1ºΩ˛T3ÛMƒ2HT4pã3ùäZTI® @è√ëA∏z)Ä   A∏Éd    BL LacC•W
+B)¨2¿ÙH1ﬁ˝ÀT4Pı"3!¸;T5Û3ÚZôTI® Aπò±A∏Éd    A∏åûÄ   BL LacC•W
+B)¨35K2'ìT3ÙÁ#2Á2"T4ç‚€2©I0TI® A~ÈxA∏åûÄ   A∏ïŸ    BL LacC•W
+B)¨2Æy…1ëÛMT3"Ï@2-YmT3›˘2À ÜTI® Aº†A∏ïŸ    A∏üÄ   BL LacC•W
+B)¨2b¬1Rª¬T3gÓË29D1F4¯2ÏﬁFI® Bè,7A∏üÄ   A∏®N    BL LacC•W
+B)¨2ùÙ]1ÆàfT3=J˛2áU(T4±H35"ÙTI® @)œ‚A∏®N    A∏±àÄ   BL LacC•W
+B)¨3õ221VF3¸#b2—xT4Öá3äÜ¬FI® BóµÇA∏±àÄ   A∏∫√    BL LacC•W
+B)¨2ÕC&1’BT3ìyû2•˛›T4v)3:Ê—TI® A-9ŒA∏∫√    A∏√˝Ä   BL LacC•W
+B)¨3'ÿ2H8õT4®{3!ÄÜT4ßê$3“wÉTI® A‚‹A∏√˝Ä   A∏Õ8    BL LacC•W
+B)¨3Åù*2h|T4 µ˝2ÙÌT4≈ïY3¥‰ÓTI® A¬8ÚA∏Õ8    A∏÷rÄ   BL LacC•W
+B)¨2s}1%êÎT3Çav2püT46°2‚MÕTI® AH˛qA∏÷rÄ   A∏ﬂ≠    BL LacC•W
+B)¨2£Hj1êÉT3K•525ÉøT4»Á3úˆFI® Bf˙A∏ﬂ≠    A∏ËÁÄ   BL LacC•W
+B)¨2µå∑2nÁF3®è2ˆ?◊T4âÚ2ìFÀTI® A√b≥A∏ËÁÄ   A∏Ú"    BL LacC•W
+B)¨2‚A"1ÛkóT3=Uü2zA T4)±Ò3TI® @ì◊JA∏Ú"    A∏˚\Ä   BL LacC•W
+B)¨2êÇ|1°%WT3X/∂2oS#T4Ê˚2Òï¢TI® @‰äA∏˚\Ä   Aπó    BL LacC•W
+B)¨2°∑1‘vUT3Ç/*2¿◊ñT3ó¨=,ˆBTI®     Aπó    Aπ—Ä   BL LacC•W
+B)¨2”ì1Ÿ˙™T3NJä2X.T4Á3%¨@TI® Ax°≥Aπ—Ä   Aπ    BL LacC•W
+B)¨2zf˚1äTÃT3Ñ•2ÑÀT47†m38TI® AIÿîAπ    Aπ FÄ   BL LacC•W
+B)¨2q´1+ı T3E;¿2g”#F40Ê*3 ’:TI® A√˙öAπ FÄ   Aπ)Å    BL LacC•W
+B)¨2ëÈk1åŸπT3\ÿu2H2¶T3˚º(3	TI® A«πAπ)Å    Aπ2ªÄ   BL LacC•W
+B)¨2j/#1ç¨!T3¢†42õäΩT4‘3!	ÖTI® A30Aπ2ªÄ   Aπ;ˆ    BL LacC•W
+B)¨2¨⁄1Æ ªT3&Íﬂ2R•T3Ï†E3
+/1TI® AkbaAπ;ˆ    AπE0Ä   BL LacC•W
+B)¨2é#1ïR&T3L8v2cÕ˛T4
+`S3+PTI® APû AπE0Ä   AπNk    BL LacC•W
+B)¨2™$g1π3RT3‰e˜2∫§!T4Tm3_îTI® A_æﬁAπNk    AπW•Ä   BL LacC•W
+B)¨2°ug1¢™3T3ÄwT2íã§T4	D«3!yCTI® Af AπW•Ä   Aπ`‡    BL LacC•W
+B)¨2fb1soîT2°ºO,ùó›T3•*ã1ÙıTI®     Aπ`‡    AπjÄ   BL LacC•W
+B)¨22O1{ûwT3C…2S-∞T3·$ç3æ£TI® @¥TAπjÄ   AπsU    BL LacC•W
+B)¨2\ˇ¶1}[°T3bÈÛ2ÖCeT3»m˛3%‹ÎTI® A»~AπsU    Aπ|èÄ   BL LacC•W
+B)¨3 µ,2riT3úÚ02º∏6T44‹ò3q5TI® @∆`sAπ|èÄ   AπÖ     BL LacC•W
+B)¨2Üàº1èπT31_l2Q≤äT3ºê62ÚI*TI® @è„áAπÖ     AπèÄ   BL LacC•W
+B)¨2Ö(ı1ëtsT3˙!2„≈@T4á∞Ÿ3àÂTI® Ay±gAπèÄ   Aπò?    BL LacC•W
+B)¨2Œó,†§T2“œy+Í6T3õÃ,¢/	TI®     Aπò?    Aπ°yÄ   BL LacC•W
+B)¨1Ó.À-	T3≥aÒ2Œ2ÆT4;„S3è◊ETI® >ò6Aπ°yÄ   Aπ™¥    BL LacC•W
+B)¨1 `0˝3T3M¯¡2rË$T3µuo3Õ≈TI® ?4–∂Aπ™¥    Aπ≥ÓÄ   BL LacC•W
+B)¨2mOF1qZIT3“á24JT3Àä∏3¬TI® @ôÂ?Aπ≥ÓÄ   AπΩ)    BL LacC•W
+B)¨2Ô)&2
+Ê÷T4µ«3
+ÉT4”Qà3MsHTI® A ≠.AπΩ)    Aπ∆cÄ   BL LacC•W
+B)¨2©/ 2-ÈF3ΩMs2∫_T4Uö3^M´FI® B¨vAπ∆cÄ   Aπœû    BL LacC•W
+B)¨2ﬁù"1·6”T4Aï2„∑T4lñ73îO0FI® Bh‰Aπœû    AπÿÿÄ   BL LacC•W
+B)¨3#mª2èÕT3´s£2–Ñ@T4Ñ≥3ê {TI® Aø‘öAπÿÿÄ   Aπ‚    BL LacC•W
+B)¨2 õ≠2ôMT3ËÇ/ºXT3ﬁI-i†:TI®     Aπ‚    AπÎMÄ   BL LacC•W
+B)¨2¶S˝1ºnT4B≥2˛Ì‚T4ôLc3•jÚTI® A7;öAπÎMÄ   AπÙà    BL LacC•W
+B)¨2OCå1Wç»T3ä!„2jOTT45”Ø2¶T!TI® AúoTAπÙà    Aπ˝¬Ä   BL LacC•W
+B)¨2Ç%1ñ~sT3Å√V2á™˜T4.ß2ú÷®TI® AAŒAπ˝¬Ä   A∫˝    BL LacC•W
+B)¨3gI2)5ÊT3Ö¢â2ºœVT4-Uø3wÌTI® @œwOA∫˝    A∫7Ä   BL LacC•W
+B)¨2Ï^2#”T3<„	2F”T4Ma2«`¸TI® @àuõA∫7Ä   A∫r    BL LacC•W
+B)¨3È1¸/T2ÂQS2D§∑T43µ3jë√TI® Aå¬lA∫r    A∫"¨Ä   BL LacC•W
+B)¨2Ãb1‰üT3ÑñÏ2“ùçT4KÉ3o>aTI® @∞TA∫"¨Ä   A∫+Á    BL LacC•W
+B)¨3!!∞2(´©T3Œ*.2ÖÁ·T4ú⁄Ø3÷ŒTI® AKA∫+Á    A∫5!Ä   BL LacC•W
+B)¨2aÎ_1êy∆T3y@ñ2æﬁT47…Â2˛∫TI® @å¡ A∫5!Ä   A∫>\    BL LacC•W
+B)¨2P?g1etáT3Ø¡u2á>T3˝ûE30›FI® Aÿ¿kA∫>\    A∫GñÄ   BL LacC•W
+B)¨2˚⁄21’<~T3¥Ó1\˛yT4&3?ËFI® B#)A∫GñÄ   A∫P—    BL LacC•W
+B)¨2∞¥»1¥yÏT3¨±22é˜3T4◊3-ÂFI® A;˘A∫P—    A∫ZÄ   BL LacC•W
+B)¨2√T˘1ÔeF3Drø2i˛sT3ıÊ3ÂìFI® B%‡A∫ZÄ   A∫cF    BL LacC•W
+B)¨2ﬁ5"1˙±F3ól_2É”»T4 Õ2ÚõˆFI® Büü›A∫cF    A∫lÄÄ   BL LacC•W
+B)¨3	 ¥2yfF3ÓÙ2∂@F4Æ¢&3}ÒïFI® CÓæA∫lÄÄ   A∫uª    BL LacC•W
+B)¨2√{e1¯ñuF3≥Fî2¿æïF4¢2D3è÷ØFI® BóºA∫uª    A∫~ıÄ   BL LacC•W
+B)¨2…˝1ªıØT3¨∑2Z÷F4îéŸ3iV"FI® Bï<]A∫~ıÄ   A∫à0    BL LacC•W
+B)¨3%É2"~xF4ví2œÆëF4˝ó~3> îFI® CXÊA∫à0    A∫ëjÄ   BL LacC•W
+B)¨34ãŒ20ßËF4)≤“1SÂF5( 3úBÄFI® CjphA∫ëjÄ   A∫ö•    BL LacC•W
+B)¨2Òñè2¡F4*w2«ë(F5s3ölcFI® CpπöA∫ö•    A∫£ﬂÄ   BL LacC•W
+B)¨3"RO2ÁüF4Ôg2µ•F5ıÅ3Ö+◊FI® Cõ¶ÂA∫£ﬂÄ   A∫≠    BL LacC•W
+B)¨3—√2≤´F3‹x◊1ùìäF4˘fæ3@∆kFI® C1ÎuA∫≠    A∫∂TÄ   BL LacC•W
+B)¨2ÍÆª2 :F3∏ﬁÇ1ddF4»3`3FI® CÌ<A∫∂TÄ   A∫øè    BL LacC•W
+B)¨3H	P2v˚CF4ã∞3FùF5;˚Q3Ô˘FI® C}∞A∫øè    A∫»…Ä   BL LacC•W
+B)¨2Ú[-·T4ﬁ%˜3æf)T5âÖ4 ØTI® AZ$ÔA∫»…Ä   A∫“    BL LacC•W
+B)¨3ÇıÉ2´KÎF4ó’53ç≠¨F5B˜53ñe¥FI® BÆÂ0A∫“    A∫€>Ä   BL LacC•W
+B)¨3Lsf2<í«F42Œï2åËF5~Œ3ü˛ÍFI® CpÄ™A∫€>Ä   A∫‰y    BL LacC•W
+B)¨2ª@P1Î=pF4îÔ2ªïÔF4ÍÍÜ3yïFI® C)©⁄A∫‰y    A∫Ì≥Ä   BL LacC•W
+B)¨2{1πpyF3…Úû1ôÁ∏T4ùö:3L
+ÜFI® Bß‡5A∫Ì≥Ä   A∫ˆÓ    BL LacC•W
+B)¨3 N+2ﬂíF3ËØ¥2$‚’F4ﬂ≠3É˜*FI® CK9#A∫ˆÓ    Aª (Ä   BL LacC•W
+B)¨2∂•&1ÿ0‰F3ã<2áxWF4éRM3pŸFI® B√ß≠Aª (Ä   Aª	c    BL LacC•W
+B)¨3#˙c2…®F3âÜ§2ÜcF4ÆπK3YÙ@FI® C"ÿ∆Aª	c    AªùÄ   BL LacC•W
+B)¨2˚Z.2ıoF3ß•˜2ê◊xT4lã∞3V+„FI® B≈ô%AªùÄ   Aªÿ    BL LacC•W
+B)¨2‹í72
+ÊqF3º©∫2æ˛F4±†3èdPFI® B√[LAªÿ    Aª%Ä   BL LacC•W
+B)¨2‹îæ1˙5lF3ÀÍ›1é¬F4√!93$ FI® C˜rAª%Ä   Aª.M    BL LacC•W
+B)¨3bù22%XÓF4"7÷1©ıóF4˛ò$3>ÙåFI® CßÂ.Aª.M    Aª7áÄ   BL LacC•W
+B)¨3íOP2P{¿F4,ø2Ë¸›F5*43¢éwFI® CØÃ≠Aª7áÄ   Aª@¬    BL LacC•W
+B)¨2ë√Í1º»»F3(≥2I®¶F4:ã|2•c∂FI® B…kAª@¬    AªI¸Ä   BL LacC•W
+B)¨2¯èÜ1ÁœlF3™@ù2~£oT4¢Xó2s'õFI® CÉtAªI¸Ä   AªS7    BL LacC•W
+B)¨2ô¯p1∫‰QF3`£2d
+ŸF4öÈΩ3≤FI® BÚ§&AªS7    Aª\qÄ   BL LacC•W
+B)¨3í•1˛xˇF4ë≤2¶£ÂF5	23~HıFI® CûÊAª\qÄ   Aªe¨    BL LacC•W
+B)¨3$u¨2¥(F3õíU2ìÎF5/~2
+gãFI® CSJ˛Aªe¨    AªnÊÄ   BL LacC•W
+B)¨2î?√1µ¶õF3†£%2ààF4•G3S·˜FI® ClïAªnÊÄ   Aªx!    BL LacC•W
+B)¨31Ìƒ¨F3ﬂI2ò‡¶F5«Ñ3âÛLFI® CéX¨Aªx!    AªÅ[Ä   BL LacC•W
+B)¨3wä%2!§KF4Ω72≥Ü°F5T23Ç&ûFI® C¡îkAªÅ[Ä   Aªäñ    BL LacC•W
+B)¨2¯≤…1Î@ŸF3«ö2•ZF4ÏÒ 3áß.FI® C.hÏAªäñ    Aªì–Ä   BL LacC•W
+B)¨2√¸$1‰ò˙F3âÂû1˛á_T4> 3= ›FI® BäË7Aªì–Ä   Aªù    BL LacC•W
+B)¨2Ç¶o1a~F3Çï·2iSF4t¢¡2l‹yFI® B‹BAªù    Aª¶EÄ   BL LacC•W
+B)¨3
+˝a2ÏyF3‰î2è3ÅF4∏‹ü3v≥FI® C¸*Aª¶EÄ   AªØÄ    BL LacC•W
+B)¨3÷2€ŸF3˙ùu2§›˛F5N√3|ä FI® CÑ‹:AªØÄ    Aª∏∫Ä   BL LacC•W
+B)¨2àl[1ÄÇLT3ú¯"2{)-F4ë_3Dÿ¿FI® Bƒ@àAª∏∫Ä   Aª¡ı    BL LacC•W
+B)¨2—Á1’á"F3∂ä2ïOF4íë2XT/FI® C»lAª¡ı    AªÀ/Ä   BL LacC•W
+B)¨3¶\2 <òF4‰L2∞†îF5
+{o2˙0€FI® CÜ¡AªÀ/Ä   Aª‘j    BL LacC•W
+B)¨3}á*2"Ó F4C:¸2ø≈EF5\U3òg]FI® D¡bAª‘j    Aª›§Ä   BL LacC•W
+B)¨2ﬂ’1á2hF4Ù(1ºzÑF5ç92œ∂@FI® Cò'Aª›§Ä   AªÊﬂ    BL LacC•W
+B)¨3J£2ÂfF3¯h!2ûR-F5£"1±ì<FI® C≥œ/AªÊﬂ    AªÄ   BL LacC•W
+B)¨2üˇ*1–ù9F3’;Ä1˘ûF4◊S3	FI® C≤bAªÄ   Aª˘T    BL LacC•W
+B)¨2∏}P1ÃI>F3H:/2[ò…F4á´Ø2ﬁK⁄FI® BÏ´îAª˘T    AºéÄ   BL LacC•W
+B)¨2¡Ä.1œ•ñF3™¡2ìç∞F4ô:á3JK8FI® Cü:AºéÄ   Aº…    BL LacC•W
+B)¨2ìÜS1ª≠πF3mSO2IßÈT4ÉiÓ3r7 FI® BßßAº…    AºÄ   BL LacC•W
+B)¨2“=Í1ÿöF3Úßé2¢PdF4÷BÀ2˚‚GFI® C>ó AºÄ   Aº>    BL LacC•W
+B)¨2º]Ù1ﬂ1F3·Ì2èõF4Ôπ∞2øÓÃFI® C$sAº>    Aº'xÄ   BL LacC•W
+B)¨3i”2èXF3ıﬂ≠2öéiF5	Óü3ÌNFI® C“EkAº'xÄ   Aº0≥    BL LacC•W
+B)¨3è~22A≤F4&Û:2¡iVF5!≠≥3Ä˚⁄FI® D	ö¯Aº0≥    Aº9ÌÄ   BL LacC•W
+B)¨3!#02
+èF4øÛ2• F4˝2ª=NFI® Cë·…Aº9ÌÄ   AºC(    BL LacC•W
+B)¨2˘n∂1Ëæ¥F3Ò›2õÔ”F4·Öo3i<FI® C|˘ìAºC(    AºLbÄ   BL LacC•W
+B)¨3¸¥2|F3πÜP2¶¨F4È=2…©'FI® C6>ÚAºLbÄ   AºUù    BL LacC•W
+B)¨39¢2'qF3‰ÏF2üŒMF4˝¡q3Ñ±"FI® CoõAºUù    Aº^◊Ä   BL LacC•W
+B)¨3N˜42‰F3Ú¡2ñÃ⁄F5  M2•ÈJFI® C∑ÊFAº^◊Ä   Aºh    BL LacC•W
+B)¨3%œ2ˇøF3Ù>ˇ2ä7ÒF4d3gÉGFI® C¢'Aºh    AºqLÄ   BL LacC•W
+B)¨2˛kW1Úi‰F3Á`ﬁ2ûÎÅF4Èâ™2€'»FI® C‡AºqLÄ   Aºzá    BL LacC•W
+B)¨3Ú]2	)dF3¸ÂM2µÍ∆F4‘¥3vFI® CM*ñAºzá    AºÉ¡Ä   BL LacC•W
+B)¨3≥Ä1Ó∏KF4 √r2†∞ΩF4Ô,/3cc!FI® CêÈ’AºÉ¡Ä   Aºå¸    BL LacC•W
+B)¨3@@‡2	º(F4ÏL2•∑òF4Í/F3]0¬FI® C©m9Aºå¸    Aºñ6Ä   BL LacC•W
+B)¨3´ª1˝HIF3·ú2£ÌiF4˛îº3ÜÿºFI® CIpHAºñ6Ä   Aºüq    BL LacC•W
+B)¨3Uè2õ±F4!7=2£$°F5¢v3Ö<FI® C }òAºüq    Aº®´Ä   BL LacC•W
+B)¨3MGà299F3ƒ¿≠2égôF4„›3aUIFI® C®M¡Aº®´Ä   Aº±Ê    BL LacC•W
+B)¨3!ìR1¯ƒèF3Ûw2õ‚◊F4⁄‡—3VﬂñFI® C®ÈAº±Ê    Aºª Ä   BL LacC•W
+B)¨3†Ë2πWF3Ó˙E2††åF4«[Ò3a˙(FI® Co•]Aºª Ä   Aºƒ[    BL LacC•W
+B)¨3ÖÁÂ26F3ÕÆÔ2°å–F4Èx˝3qmÙFI® CßzAºƒ[    AºÕïÄ   BL LacC•W
+B)¨3≈·2 ﬂF3d¯‹2x®F4´G3Uí‹FI® C/ˇBAºÕïÄ   Aº÷–    BL LacC•W
+B)¨3ø1 ÛûF3®·¥2`
+$F4ËH3J:›FI® CµÉæAº÷–    Aº‡
+Ä   BL LacC•W
+B)¨3Bå¥2 âbF4"∞S2°_›F5"≥u3ugƒFI® C‡¯Aº‡
+Ä   AºÈE    BL LacC•W
+B)¨3X÷÷1Û¸√F4…ê2âÙ¢F5%u3L§FI® DËèAºÈE    AºÚÄ   BL LacC•W
+B)¨34Ùß2¡ÙF47vs2≥RF5¬·2p…^FI® Cœ_∞AºÚÄ   Aº˚∫    BL LacC•W
+B)¨3õÇ∆20 F4cPH2»¶¯F5RÃL3}àºFI® D==eAº˚∫    AΩÙÄ   BL LacC•W
+B)¨3W+ã2(õ\F4r2ΩuF5›%3é7éFI® C§?ÙAΩÙÄ   AΩ/    BL LacC•W
+B)¨3:Î2a9F4¸ì2´dwF5#n3wû&FI® CºìûAΩ/    AΩiÄ   BL LacC•W
+B)¨3õ%Œ2IÕtF4.R02—„>F5{3ät\FI® Cﬁ7£AΩiÄ   AΩ §    BL LacC•W
+B)¨3	NG1Ó÷¨F3……D2óÑÎF4Õ∆23dîFI® Caü‚AΩ §    AΩ)ﬁÄ   BL LacC•W
+B)¨2¸§*1›ÔF3ÜC!2w^yF4ûmH3O7@FI® C"–AΩ)ﬁÄ   AΩ3    BL LacC•W
+B)¨32 wYF3—ìÿ2óWSF4Õ‡‚3i#FI® Cu@ÛAΩ3    AΩ<SÄ   BL LacC•W
+B)¨3ÿ2{F3∂Ì2ë≤qF4ËÕ∫3a∏§FI® CâD∆AΩ<SÄ   AΩEé    BL LacC•W
+B)¨2õƒì1≠ƒÂT3ƒ°f3LF4∫€)3-ZFI® B\ºAΩEé    AΩN»Ä   BL LacC•W
+B)¨2∑	z1·"«F3±^\2ûIvF4ãë3b)BFI® B“)OAΩN»Ä   AΩX    BL LacC•W
+B)¨2œëg,‹x‡T4+Íp3∏
+T4Á÷3ÍoÎTI® Aa:<AΩX    AΩa=Ä   BL LacC•W
+B)¨2÷ëΩ1Î`F3≥å;2á°rT4ï6n2ö¥;FI® B¿…uAΩa=Ä   AΩjx    BL LacC•W
+B)¨2ëî1≥-*F3}}ˇ2UÁT4Jz32#ÁFI® BçêAΩjx    AΩs≤Ä   BL LacC•W
+B)¨2êcÃ1ç¿T3®°Ø2òƒF4mΩ˛3V^ƒFI® B>E˝AΩs≤Ä   AΩ|Ì    BL LacC•W
+B)¨2d(1•°ÈF3ñãÓ2iUœT4(Èû34¥VFI® BTjÖAΩ|Ì    AΩÜ'Ä   BL LacC•W
+B)¨2ëº¶1∫“˘F3NÀ2[DgT4C˙3>a,FI® BuØ‰AΩÜ'Ä   AΩèb    BL LacC•W
+B)¨2»√å1ÂÒF3â"&2aí_T4X»§3?≈ FI® B»'AΩèb    AΩòúÄ   BL LacC•W
+B)¨3≤˜?2D™ZF4MQô2¬L˚F5IN 3Wt|FI® D047AΩòúÄ   AΩ°◊    BL LacC•W
+B)¨33@á2˛ˆF3ø‡2û„;F4¥∏˛3WïêFI® Cf|˚AΩ°◊    AΩ´Ä   BL LacC•W
+B)¨4"Z2å£æF4Ä∞ü2Ú°F5Ä≠3°øgFI® DwvAΩ´Ä   AΩ¥L    BL LacC•W
+B)¨3`É2"èF3˛/R2´˝F4˚&˚2â∏°FI® C≥∫ AΩ¥L    AΩΩÜÄ   BL LacC•W
+B)¨3"s2
+Ø⁄F3≠Qm2û°F4√ˇ1sπäFI® CK—AΩΩÜÄ   AΩ∆¡    BL LacC•W
+B)¨3—∑1ﬁy^F3¿Q2áè∂F4„Ëõ3iÁ9FI® Cx¯ªAΩ∆¡    AΩœ˚Ä   BL LacC•W
+B)¨2ßˇƒ1ßïqT3ºÆ’2†◊ÆT4H,ë2·NﬂFI® A⁄WHAΩœ˚Ä   AΩŸ6    BL LacC•W
+B)¨2Ú+À21·F3≈2T¬YT4™52Õ/FI® BÆA‰AΩŸ6    AΩ‚pÄ   BL LacC•W
+B)¨3{©2-F4bÍï2÷‚F5>r§3ä≠*FI® D§+AΩ‚pÄ   AΩÎ´    BL LacC•W
+B)¨2•`Ë1»ÙçF3îs¿2âPﬂF4èŒﬁ3IzvFI® BÈ´AΩÎ´    AΩÙÂÄ   BL LacC•W
+B)¨3;H˚2iŸF3˜q(2™¶ıF4ï3xﬁ˙FI® CÉ<˙AΩÙÂÄ   AΩ˛     BL LacC•W
+B)¨2˛
+¯1˚ÃF3™Œ˜2ñ‚±F4≤ˇT3ryFI® Ce‰AΩ˛     AæZÄ   BL LacC•W
+B)¨2πYF1Æ£;F3Ç?‹2P‚ÓF4û_38«bFI® C<ÚÎAæZÄ   Aæï    BL LacC•W
+B)¨2íeœ1°¿0F3.œm22+F44ƒ2w€ÉFI® BÃ&$Aæï    AæœÄ   BL LacC•W
+B)¨2Æ˛∫1∫“ˇF3Ö">2v≤–F4áY˜3EâFI® CàGAæœÄ   Aæ#
+    BL LacC•W
+B)¨2M}?1ökF3*ùy2RT2F4=∞S2ïræFI® Bm6ÁAæ#
+    Aæ,DÄ   BL LacC•W
+B)¨2©¿01eπSF3ï±ß2zé∏F4mº˛2â7˛FI® CÑ©Aæ,DÄ   Aæ5    BL LacC•W
+B)¨2uÏç1Ç3pF3ñø2fFøT32J2øYFI® Bi¨Aæ5    Aæ>πÄ   BL LacC•W
+B)¨2#ê1vTUT3Öä2m©}T4:‰_2õtÃTI® AtÚAæ>πÄ   AæGÙ    BL LacC•W
+B)¨2tµ∫1≤EÂF3!¿2I)5T3‘ì†3/ııFI® Bm_AæGÙ    AæQ.Ä   BL LacC•W
+B)¨2Yú1¢ˇüF3b‘H2ròˇF4 Ä%3nÜFI® BNAæQ.Ä   AæZi    BL LacC•W
+B)¨2∂jª1≈'/F3öú˛2áœ_F4Ä°À2µtFI® C:“AæZi    Aæc£Ä   BL LacC•W
+B)¨2∑¢1Á0ëF3õ¶Ø2=QF4îeø3_‹¯FI® BÍÆqAæc£Ä   Aælﬁ    BL LacC•W
+B)¨2<vƒ1öÀ’F3aªk2>ÙüT4YÆ35πÄFI® BìªÿAælﬁ    AævÄ   BL LacC•W
+B)¨3	G1ÚjF3N÷ƒ2T†5F4u˛m1Wˇ•FI® Cg~AævÄ   AæS    BL LacC•W
+B)¨3br1˛ø“F3¢#D2çâóF4∫ˇt2òˇ÷FI® CCûAæS    AæàçÄ   BL LacC•W
+B)¨2Ór;1€]F3Çòf2b∑F4ØQO2≤¯IFI® C)ZAæàçÄ   Aæë»    BL LacC•W
+B)¨2nı1™?$F3wÉ2z,F4]$†2UÒÖFI® B™ÿAæë»    AæõÄ   BL LacC•W
+B)¨2[õ1æÒ©F3ùä2®}*F4^ãl2òXûFI® BmÇaAæõÄ   Aæ§=    BL LacC•W
+B)¨2‘"(1ÂÌF3\’˝2Å√$F4Ö˚Á3ZßFI® COAæ§=    Aæ≠wÄ   BL LacC•W
+B)¨2Ã‚+1¿lT3~:2ã~“F4[‹¥3OÜ:FI® BMÓBAæ≠wÄ   Aæ∂≤    BL LacC•W
+B)¨2úµb1ºÈ£F3§HÈ2á8∂F4Az1â_"FI® B˘¨åAæ∂≤    AæøÏÄ   BL LacC•W
+B)¨2ôsÑ1±|$F3RŸ*2wz@F4ÇQÊ3MµrFI® B”§AæøÏÄ   Aæ…'    BL LacC•W
+B)¨2ôp†1Ü¥T3àµ2\∑„T4;∞P3IΩFI® B9ÌÇAæ…'    Aæ“aÄ   BL LacC•W
+B)¨2á¸Ô1£ŒF3’2êÎ]F4ë)3FXFI® C—_Aæ“aÄ   Aæ€ú    BL LacC•W
+B)¨2·l1—ÌF3Ç©´2wèŒF4‚é™3n”FI® CE)ÄAæ€ú    Aæ‰÷Ä   BL LacC•W
+B)¨3 ∆"2 K˛F3˚v2óëF4˙æ|2ù!ÊFI® C¥j Aæ‰÷Ä   AæÓ    BL LacC•W
+B)¨3>Ä2%ÈF3‰É2¥cF5Ø037©FI® CqÊ‚AæÓ    Aæ˜KÄ   BL LacC•W
+B)¨3c´2’F4> M2øgPF5Vû›3öCFI® DT_Aæ˜KÄ   Aø Ü    BL LacC•W
+B)¨2ﬂÓ—1€ÿ`F3ıß{2ò≠eF4‡ü23_‰UFI® Cu§Aø Ü    Aø	¿Ä   BL LacC•W
+B)¨3ûn2=<…F3ù˘D2•‘T4é+3õ†4FI® BÑV◊Aø	¿Ä   Aø˚    BL LacC•W
+B)¨2>[™1óâÜF3ê‰29øÏF4mM:3[ïkFI® Bn!ìAø˚    Aø5Ä   BL LacC•W
+B)¨2õJO1ÕyôF3å∫Õ2äÊF4~Zp3\yeFI® BíOﬂAø5Ä   Aø%p    BL LacC•W
+B)¨2~Á„1¢6F3|¶ı2ÄßÇF4oT3?FI® Bﬂ≥”Aø%p    Aø.™Ä   BL LacC•W
+B)¨3˚51⁄äF3ñÙ≤2âé≤F4û1ß3Kﬂ⁄FI® C®6Aø.™Ä   Aø7Â    BL LacC•W
+B)¨2∂√Ä1Â¢aF3ú#M2,º2F4úÑñ1]MâFI® B€
+5Aø7Â    AøAÄ   BL LacC•W
+B)¨3‘&1Î·F3ì˜∆2ÅôF4´n3N LFI® C8ê4AøAÄ   AøJZ    BL LacC•W
+B)¨2√qÛ1Ã{ÂF3[ã‡2@M>T4i›S2Ω»ÊFI® B „˝AøJZ    AøSîÄ   BL LacC•W
+B)¨2ﬁ£U1ﬂ€⁄F3~dé2Ü<QF4°ñ2âwFI® CüAøSîÄ   Aø\œ    BL LacC•W
+B)¨2€Wô1ﬂ∑F3ñ„G2âX»F4∏E™3p©GFI® Cü*Aø\œ    Aøf	Ä   BL LacC•W
+B)¨2ò-∑1≥ßF3©à⁄2âè3F4ﬁ1ª3pFI® C6·9Aøf	Ä   AøoD    BL LacC•W
+B)¨3àØ2i•F42…9ñF4ÙEf2™∞@FI® C,xDAøoD    Aøx~Ä   BL LacC•W
+B)¨3 ¶~2•°F4}®2¬›üF5"ë3ñ€…FI® CèÚ
+Aøx~Ä   AøÅπ    BL LacC•W
+B)¨3eò1ÛZ•F3˜≤)2†„:F4˛eá3wæ≥FI® Cí6üAøÅπ    AøäÛÄ   BL LacC•W
+B)¨3v71ËkáF3¥qÃ2è…2F4¿€ú2ãZfFI® C[’AøäÛÄ   Aøî.    BL LacC•W
+B)¨3&Ä2ˆ(F3å/µ2âûïF4ºÇ2Q„FI® CpU≠Aøî.    AøùhÄ   BL LacC•W
+B)¨3@˘W2WÀF4µô1DﬁiF5!ég2ò…˜FI® C™˛cAøùhÄ   Aø¶£    BL LacC•W
+B)¨3LÑ1˛FrF3Ïº2•Û#F4Ÿ‰3qàFI® CÖ}Aø¶£    AøØ›Ä   BL LacC•W
+B)¨37ë´2ËﬁF3…îG2èÍ'F4∆l 3P√lFI® CáˇoAøØ›Ä   Aøπ    BL LacC•W
+B)¨32-2tóF4 É@2ßwTF4ÁÊª3cp<FI® Cè-Aøπ    Aø¬RÄ   BL LacC•W
+B)¨3d_¸2%qµF3¸õÑ2ü†¯F4‡Œ£3aÌ(FI® C¥U7Aø¬RÄ   AøÀç    BL LacC•W
+B)¨3ÅÎ1ÈÇPF3•`î2Å7ëF4∆´2_M±FI® ClÈxAøÀç    Aø‘«Ä   BL LacC•W
+B)¨3	I;1WF3—42ó∫LF4–bA3`Ω‚FI® CXı4Aø‘«Ä   Aøﬁ    BL LacC•W
+B)¨3Y£Ù2§F4(G2≥dF5i˝2˛ÁkFI® CªI›Aøﬁ    AøÁ<Ä   BL LacC•W
+B)¨3wõ92!'ÔF41SZ2º¶@F51à3è˜»FI® DFDAøÁ<Ä   Aøw    BL LacC•W
+B)¨3ßºZ25ótF4."Ÿ2ØDuF5µ12ÆÊ•FI® D$•#Aøw    Aø˘±Ä   BL LacC•W
+B)¨35ﬁ2r|F3üeq2É…hF4≤JÛ3EFI® Cã∫¥Aø˘±Ä   A¿v    BL LacC•W
+B)¨3|=2( ÁF479¡2«SF5&„„3ÑW◊FI® C˛∆A¿v    A¿@   BL LacC•W
+B)¨3Cv82)F4°≈2§íF4¸—<3fSªFI® CØcèA¿@   A¿
+∞Ä   BL LacC•W
+B)¨3å>Ë2,9tF4
+‘2®XWF5;Q2UíFI® Dn=A¿
+∞Ä   A¿M¿   BL LacC•W
+B)¨2îAˇ1øÇÛF3∆=.2ö‡§F4‡Äë3Çﬂ©FI® CJ∂A¿M¿   A¿Î    BL LacC•W
+B)¨3¢ì2C∂ÿF4	;V2ª˚3F5‘c2æv%FI® C∫Û-A¿Î    A¿à@   BL LacC•W
+B)¨3>"¿2uLF3∑Û 2èP‡F4ªå2„ÉzFI® C^gQA¿à@   A¿%Ä   BL LacC•W
+B)¨3ΩTÖ2AàΩF41|∂2≤?¥F57b»3~X FI® D8îA¿%Ä   A¿!¬¿   BL LacC•W
+B)¨3.Ç2ágF3∏2õ@F4»oΩ3g—)FI® Cm}iA¿!¬¿   A¿&`    BL LacC•W
+B)¨3Â™v2pQIF4ZR•2ﬁ∑F5^„3ñ$±FI® D<oA¿&`    A¿*˝@   BL LacC•W
+B)¨4	22coÜF4çÅ•2‘`_F5åéÕ2≠ÿFI® D¶VÓA¿KJ    A¿OÁ@   BL LacC•W
+B)¨3ı≤1º(ØF3√Õ.2VÂF4˘Èÿ2íÔ»FI® D¨}A¿OÁ@   A¿TÑÄ   BL LacC•W
+B)¨3'Ó1ºΩF3ÁZf2^™ùF5P¨2¥ FI® DKÅA¿TÑÄ   A¿Y!¿   BL LacC•W
+B)¨3qT2fv,T4pqi3We
+T4‘Àx3ﬂ…FI® Aÿ÷ÆA¿Y!¿   A¿]ø    BL LacC•W
+B)¨3Ü51”,ØF3Õ∞2n’≥F5de3\¥FI® C≈Q«A¿]ø    A¿b\@   BL LacC•W
+B)¨3_1∫})F3ï∑‰2H,≥F4»–33ƒ„FI® C∫˜A¿b\@   A¿f˘Ä   BL LacC•W
+B)¨2¸`=1¿ÆTF4  Õ2}ÓõF4Î•82oÍëFI® C…Ë˝A¿kñ¿   A¿p4    BL LacC•W
+B)¨3iV1Û?8F4}\2ÅŒgF5ù.2/CèFI® D<éKA¿p4    A¿t—@   BL LacC•W
+B)¨3@ ê2u§ªF4!d3F5)›¶3;∫^FI® C*mA¿t—@   A¿ynÄ   BL LacC•W
+B)¨3P!2'TF4GPΩ2–∞tF5,Œ:2ZÅFI® CÆö¥A¿ynÄ   A¿~¿   BL LacC•W
+B)¨3Œ1≈+‰F4%2Ö	ÏF5k2éïÎFI® CoA¿~¿   A¿Ç©    BL LacC•W
+B)¨2ú[!1àçF3sÑd2;˛÷F4mÇ3√ŸFI® C@∑äA¿Ç©    A¿áF@   BL LacC•W
+B)¨2|·^1£B¶F3èK≥2dZT46B´37
+HFI® BÄ≥¨A¿áF@   A¿ã„Ä   BL LacC•W
+B)¨3yñ@2"éÑF4(ù2üG+F5 iÂ2ò3FI® CıªA¿ã„Ä   A¿êÄ¿   BL LacC•W
+B)¨3RNG1€$9F3œÆ‰0¸1F5 El3IUFI® D"”´A¿êÄ¿   A¿ï    BL LacC•W
+B)¨3]G2'I¬F4T≤2∑l†F5S¯2æÒqFI® C≤$íA¿ï    A¿ôª@   BL LacC•W
+B)¨2ˇ´V2
+∂7F3ﬁºn2¥◊≈F4‰î3åJ√FI® C#hnA¿ôª@   A¿ûXÄ   BL LacC•W
+B)¨2‰1™©ˆF3œi2mπBF4ÕUè2ãï{FI® Cª'A¿ûXÄ   A¿¢ı¿   BL LacC•W
+B)¨31ûÃ2“(F3˚2π{F4‚ìÉ2‘cFI® Ciö]A¿¢ı¿   A¿ßì    BL LacC•W
+B)¨2m>1°iπF3Å&≈2j'oF4xyÖ31$>FI® B H.A¿ßì    A¿¨0@   BL LacC•W
+B)¨2åúÃ1x/≥F37ë∏2F4::z2(À¶FI® CBÎÙA¿¨0@   A¿∞ÕÄ   BL LacC•W
+B)¨2◊¸?0∞}F3i˜2<π“F4îî;2!tFI® CYÚìA¿∞ÕÄ   A¿µj¿   BL LacC•W
+B)¨2ﬂ–11≠¯=F3ììG2OÃ√F4ü
+î3.FI® Cy6AA¿µj¿   A¿∫    BL LacC•W
+B)¨62'0gC≠T6îH3ûe˘T7Ä“=4	\6TI®     A¿∫    A¿æ•@   BL LacC•W
+B)¨3^ÚÜ2ÅòŸT4jr≥3é‡æT5©ôi4ªvTI® A[ A¿æ•@   A¿√BÄ   BL LacC•W
+B)¨2øçä1ÀâûF3Ç˜£2YáoT42®®36˙cFI® Bè‘A¿√BÄ   A¿«ﬂ¿   BL LacC•W
+B)¨2jã.0‘∑F3Fø…2(ÿ/T45ÍÕ3&a®FI® B™póA¿«ﬂ¿   A¿Ã}    BL LacC•W
+B)¨2Õ¨1º◊¥F3dXª2Xè§F4ë@Ä3.í∞FI® C7X«A¿Ã}    A¿—@   BL LacC•W
+B)¨2≠f1∞}ÊF3∞[O2i°MF4∂*23BõFI® CiUîA¿—@   A¿’∑Ä   BL LacC•W
+B)¨2ÅHd1Ö&kF3#ü42*»ÀF4o8•3#GáFI® B˛yA¿’∑Ä   A¿⁄T¿   BL LacC•W
+B)¨2.$1vy F3`Ñ2RÙqF42üª3 aFI® BùùfA¿⁄T¿   A¿ﬁÚ    BL LacC•W
+B)¨2ú§´1≠$_F3K¿2G¡êT4"˜3)X5FI® B≠ëA¿ﬁÚ    A¿„è@   BL LacC•W
+B)¨2y€q1ÇÜëF3fÈΩ2:â˚F4|"&2Å∞FI® CîA¿„è@   A¿Ë,Ä   BL LacC•W
+B)¨2ΩO°1úSF3îã2'∏_F4`˘S3H˝FI® CJÎbA¿Ë,Ä   A¿Ï…¿   BL LacC•W
+B)¨2ò£Ä1ê ˆF3\Œ·2AÎ/F4Xûÿ2QÚGFI® BÏ«íA¿Ï…¿   A¿Òg    BL LacC•W
+B)¨2∞hπ0”%F3∫`û2CIÚF4£Õo3˙FI® Cöê¿A¿Òg    A¿ˆ@   BL LacC•W
+B)¨2«Í41Èó◊F3èÛ2d˙(T4S˚>3EwYFI® BöûÚA¿ˆ@   A¿˙°Ä   BL LacC•W
+B)¨2Ä˘ñ1-ÄT34
+k2U`F4Ò2C?ˇFI® B,Ì‡A¿˙°Ä   A¿ˇ>¿   BL LacC•W
+B)¨2«AÏ1¡Ë»F3äÁ2j
+ÙF4®‚“3N FI® C A¿ˇ>¿   A¡‹    BL LacC•W
+B)¨2«¡1ûäF3Ç÷÷2C2*F4kà3^FI® CW}9A¡‹    A¡y@   BL LacC•W
+B)¨2£4»1íjF3]$\25≥F4QçO3:HFI® CíœA¡y@   A¡Ä   BL LacC•W
+B)¨2êˆ.1É•F3Ç2.-ÉF4y\`3AFI® CWq¸A¡Ä   A¡≥¿   BL LacC•W
+B)¨2«RS1¡O¥F3≤Å2Ü≥´F4◊Â3EFI® CRA¡≥¿   A¡Q    BL LacC•W
+B)¨2Â“Y1Ú`F3€ö2û≠†F4Ó÷ì2
+HrFI® CSñA¡Q    A¡Ó@   BL LacC•W
+B)¨3%ß2	≈wF4)Ú2Æ2ëF4‘G 3fM„FI® CÖ«˚A¡Ó@   A¡ãÄ   BL LacC•W
+B)¨3F_ 26F3à&A2p´îF4ó#¬36•”FI® C}5ÒA¡ãÄ   A¡$(¿   BL LacC•W
+B)¨3S÷ı2QtF3≤Ûˇ2è…F4Ÿ@K2…gŒFI® CõŒMA¡$(¿   A¡(∆    BL LacC•W
+B)¨3(ò1ˇñæF3Õ¥?2ö)MF4√.ö3f‰FI® CUﬂãA¡(∆    A¡-c@   BL LacC•W
+B)¨2ƒÊê1Àó∫F3ò°H2â<›F4ö∏2≥$ÜFI® BÍ{ßA¡-c@   A¡2 Ä   BL LacC•W
+B)¨3_92AZF3¡y2å‰¥F4Ë°t2ûFI® Cœ	ZA¡2 Ä   A¡6ù¿   BL LacC•W
+B)¨3k≤±2=F3¸∞˛2ñz”F5	¬G2ÆΩFI® C˚€A¡6ù¿   A¡;;    BL LacC•W
+B)¨3µe2SF4:2{2’Q~F55ªc3ëπFI® D“A¡;;    A¡?ÿ@   BL LacC•W
+B)¨4.-2àJaF4¨<®2ªsF5îG*3ñˇ…FI® D¡Q„A¡?ÿ@   A¡DuÄ   BL LacC•W
+B)¨3ÖŸÜ2!F4)Ÿ)2©i·F5!4˘2ˆúFI® Dï&A¡DuÄ   A¡I¿   BL LacC•W
+B)¨3sÈ.15"F4.2£DF54LÕ2¶jﬁFI® Do"A¡I¿   A¡M∞    BL LacC•W
+B)¨3p≥2¿+F4∏∆2ù'QF5B2¡ª>FI® CUàA¡M∞    A¡RM@   BL LacC•W
+B)¨2‡FÖ1∫Ù2F3ßùå2i#–F4®Ç∏2ò?FI® CIè‚A¡RM@   A¡VÍÄ   BL LacC•W
+B)¨3ùG1∫ˆF3ÖÚñ2ENΩF4©Óº2<&äFI® C´˚ÓA¡VÍÄ   A¡[á¿   BL LacC•W
+B)¨2äj1ñı∆F3ïY(2G‹ÂF4òË2ó¶ìFI® CHeìA¡[á¿   A¡`%    BL LacC•W
+B)¨2∞Q1„F3[á42}óF4ÑŸ62™ÔÕFI® B®\8A¡`%    A¡d¬@   BL LacC•W
+B)¨3çﬂ1˝=F3§≠ 2É∆œF4ë˘Ã3<YYFI® Ck—√A¡d¬@   A¡i_Ä   BL LacC•W
+B)¨3~¶®2 F4¬;2¢í]F4¯Ò3Qì FI® CÒ¸kA¡i_Ä   A¡m¸¿   BL LacC•W
+B)¨3t0U2 ŒÖF4/ñ2íOF5&ì3•FI® D'ºA¡m¸¿   A¡rö    BL LacC•W
+B)¨3‚U2≠›F4w2ù˙'F5b˝Ç3TyFI® D“ÒeA¡rö    A¡w7@   BL LacC•W
+B)¨3YèÌ1”™¡F4ò«2nÈ¢F5+IŸ3;•*FI® Dm∞ÕA¡{‘Ä   A¡Äq¿   BL LacC•W
+B)¨2Ôì∏1˝·ÔF3»Ê2ûŸF4´-q2ö«ÑFI® C<1‚A¡Äq¿   A¡Ö    BL LacC•W
+B)¨2©7í1“≠ûF3èòn2óˇˇF4>pØ287gFI® B’PwA¡Ö    A¡â¨@   BL LacC•W
+B)¨3˛˝1ÔàKF3…Y¡2ñúVF4¡n03\æFI® C\9|A¡â¨@   A¡éIÄ   BL LacC•W
+B)¨2ﬁG1Æ§”F3Å¡w1ˇ—.F4Æó36ÅFI® Cñà(A¡éIÄ   A¡íÊ¿   BL LacC•W
+B)¨3ôÉ1√¥óF3rí2A∫yF4™—2«dFI® Cè˘ªA¡íÊ¿   A¡óÑ    BL LacC•W
+B)¨3[1Í√|F3ÀA&2ÜCF4”Å:2≥àXFI® CsC+A¡óÑ    A¡ú!@   BL LacC•W
+B)¨3tÀ1ˇΩVF3Ô≈á2õS5F5«Ä3r†-FI® CïsNA¡ú!@   A¡†æÄ   BL LacC•W
+B)¨3Hqº2R‡	F4!ƒ<2Ûc”F5ΩΩ3≤C…FI® CPÚA¡†æÄ   A¡•[¿   BL LacC•W
+B)¨3ÑR2dw˝F4Ø2ÂÎ¥F4÷¡3íßFI® C^¯!A¡•[¿   A¡©˘    BL LacC•W
+B)¨3l›1˝ªÍF3ÒEù2ó}EF4ÁÄf2B,ÚFI® C•≤æA¡©˘    A¡Æñ@   BL LacC•W
+B)¨3$f∆2ElF3ä»42Z«¿T4aR3'ŸÅFI® C+a∏A¡Æñ@   A¡≥3Ä   BL LacC•W
+B)¨2òò1«èF3îïı2è≈äF4É˛l2|7∑FI® Bàú A¡≥3Ä   A¡∑–¿   BL LacC•W
+B)¨2ç.1|±F3µÃà2îß¨F4ô.õ2†~FI® B≤P9A¡∑–¿   A¡ºn    BL LacC•W
+B)¨2å~˜1∏ãF3ãß2fƒyT4@™d2ÖcìFI® BYD.A¡ºn    A¡¡@   BL LacC•W
+B)¨2Éó"0¶s_T3F!’2l9T4Ωì2åNDFI® B<X¢A¡¡@   A¡≈®Ä   BL LacC•W
+B)¨2®◊Œ1ôÇ3T3äéÛ2U’≈T4$63&ÀßFI® BPD*A¡≈®Ä   A¡ E¿   BL LacC•W
+B)¨306Ï2…ÔF4d|2≤^F5Jñ3~$˚FI® CæùµA¡ E¿   A¡Œ„    BL LacC•W
+B)¨3≥Ì1Á£|F3°ä–2Å≈F4—çl2óûƒFI® ChyA¡Œ„    A¡”Ä@   BL LacC•W
+B)¨3£≈25ÄﬂF4j2£%HF53ØÒ2»ÔFI® Dó®A¡”Ä@   A¡ÿÄ   BL LacC•W
+B)¨3~ê)2WñF4?≈2´RÅF5Mj˜2¨(1FI® D0dA¡ÿÄ   A¡‹∫¿   BL LacC•W
+B)¨3xoö1˝ÛF4=~|2íØ_F5#Ì2É~FI® DAúûA¡‹∫¿   A¡·X    BL LacC•W
+B)¨3¬¬2îõF4ñ^52•“iF5àÇ,3\¯ôFI® D·YΩA¡·X    A¡Âı@   BL LacC•W
+B)¨3LùŒ13ÆF4tïQ2∂}F5cNi2œ’FI® D=iŸA¡Âı@   A¡ÍíÄ   BL LacC•W
+B)¨3 WN2^?F4q·2‚%1F5ÅR·3ücaFI® DEØ÷A¡ÍíÄ   A¡Ô/¿   BL LacC•W
+B)¨3V?2_ÊF4,éT2¥Ê`F5L§‰2„=ÖFI® D\A¡Ô/¿   A¡ÛÕ    BL LacC•W
+B)¨3=s{2
+4ÄF3˘qp2Z8ŒF5'‚˚3ÅÒFI® C—ÙA¡ÛÕ    A¡¯j@   BL LacC•W
+B)¨3ç@1º¯9F3‚+‡2d`ÃF5jø2ò˙.FI® C‘ë™A¡¯j@   A¡˝Ä   BL LacC•W
+B)¨30!˛1À¶F3⁄àÏ2g3øF4˙~¶3;(WFI® Cı[A¡˝Ä   A¬§¿   BL LacC•W
+B)¨2{£Ç1íïãF3Éc2Zß8F4ç"3/˝üFI® C®A¬§¿   A¬B    BL LacC•W
+B)¨3)^¥2F3ÈÁÛ2òæûF5’!1WfzFI® C¨ˇÛA¬B    A¬
+ﬂ@   BL LacC•W
+B)¨3ø2W|F3¡ìU2´ïÙF4Ò843Ç®#FI® C<Ç≠A¬
+ﬂ@   A¬|Ä   BL LacC•W
+B)¨3≥®2I@nF4~	2ﬂÂoF5ëˆ¢3¡&FI® D]¨ñA¬|Ä   A¬¿   BL LacC•W
+B)¨3≈º≥2DdHF4h∫q2≤$F5p*m3à∞)FI® Dπ[A¬¿   A¬∑    BL LacC•W
+B)¨3ÀΩ2IÏ˜F4ìäb2‚àˇF5ûô>3¢ÉGFI® DãUÂA¬∑    A¬T@   BL LacC•W
+B)¨3	»P1ÔuF3≈öö2ïäsF5 ”f2£ :FI® C|%˛A¬T@   A¬!ÒÄ   BL LacC•W
+B)¨2ªÕû1a∫óF3|]v2TaíF4t4Ë2ñ«ﬁFI® B„º5A¬!ÒÄ   A¬&é¿   BL LacC•W
+B)¨2ñ!1ÖÒHT3}òX2{¬ûF4Ñ 92ê®£FI® Bâ¸£A¬&é¿   A¬+,    BL LacC•W
+B)¨3Ä‡2÷»F4.â2®´˚F5A˘z2ŒäFI® D(ñ–A¬+,    A¬/…@   BL LacC•W
+B)¨3Ch§2$∏ªF3”m“2´	zF4ÔH2ÿbmFI® Cj“¥A¬/…@   A¬4fÄ   BL LacC•W
+B)¨2_ä}1®0F3sõ¢2~M F42Ñ¶3,óFI® BÉ€çA¬4fÄ   A¬9¿   BL LacC•W
+B)¨2®Ø1√!F3uÕ≥2jöxF4{ò2yoàFI® B…·%A¬9¿   A¬=°    BL LacC•W
+B)¨3•˝ô2.~¯F4É‘⁄2“'BF5áv¥1ú
+FI® Dj„,A¬=°    A¬B>@   BL LacC•W
+B)¨3-º‚2OLF3ΩCi2ì F4»p3_±aFI® C>∑A¬B>@   A¬F€Ä   BL LacC•W
+B)¨3`æ¿1ÌµF4(Ø˝2åóãF5?©¥2ÉD
+FI® DH@¿A¬F€Ä   A¬Kx¿   BL LacC•W
+B)¨3&⁄ı1æÛrF4_2où\F4‡[V3 ÓZFI® D"A¬Kx¿   A¬P    BL LacC•W
+B)¨2Eˆ0Ìf÷T3F¥˙0œ–	F4D∏@2ô^£FI® B?°æA¬P    A¬T≥@   BL LacC•W
+B)¨3^2˘ﬁF3—-1ñ≠«F4∏≥}3eò¢FI® CZ…'A¬T≥@   A¬YPÄ   BL LacC•W
+B)¨3¨1ÁöF3ÙgÑ2ôÈ∆F4ﬂÌ`3]•0FI® CyU)A¬YPÄ   A¬]Ì¿   BL LacC•W
+B)¨2Ä˙w1}"T3ö2|vÉF4∞ûÌ3g°FI® B”ÊWA¬]Ì¿   A¬bã    BL LacC•W
+B)¨2ê‹ 1ÜÓ.F3Åé‚2ElíF4O+2FkËFI® C¨œA¬bã    A¬g(@   BL LacC•W
+B)¨2=Qa0q€ƒT3"√á2.H9F4sÛ∞30∆QFI® BçbéA¬g(@   A¬k≈Ä   BL LacC•W
+B)¨3Í1ª;F3Ÿ¥ó2d(F4‹+≤2ôa£FI® CÂï%A¬k≈Ä   A¬pb¿   BL LacC•W
+B)¨3ñÜØ2,°qF4AÁÚ2∏¸F5OÛ=2Ã
+ÀFI® D-mA¬pb¿   A¬u     BL LacC•W
+B)¨3ï˘#2>∫∞F4éøÂ2Ó9F5ÜΩ02†ÎFI® DG˛=A¬u     A¬yù@   BL LacC•W
+B)¨4J>™2ïÈ€F5ﬂ2?H“F6 ≤§35>FI® E%·~A¬yù@   A¬~:Ä   BL LacC•W
+B)¨4)é∑2ÉòF4ﬂº3ÙËF5Ô®3ábFI® E Ç◊A¬~:Ä   A¬Ç◊¿   BL LacC•W
+B)¨4ıp2:x⁄F4∫˝12¬nBF5€&±3ì∫FI® E,jA¬Ç◊¿   A¬áu    BL LacC•W
+B)¨3èñª2”F4[0 2¢†ïF5~2ÀúUFI® DÅàzA¬áu    A¬å@   BL LacC•W
+B)¨4E®Í2êÜF4¡E√3|IF5ÏSÄ1˝ÄiFI® D„TA¬å@   A¬êØÄ   BL LacC•W
+B)¨3‡ìº2NﬁTF4ÉÖ}2—æQF5ëù[2¥CFI® DïÂ A¬êØÄ   A¬ïL¿   BL LacC•W
+B)¨4lu.2ES˙F4ˇz˘3RGˆF5◊˙ 4
+ÿYFI® DÅ5wA¬ïL¿   A¬ôÍ    BL LacC•W
+B)¨4H./2≠‡F4ÚÙh3$ŒœF5‡Á}3÷ä®FI® DΩT≠A¬ôÍ    A¬ûá@   BL LacC•W
+B)¨3|<p2†ÈF4B‘g2±¶ÙF5∫…3;≤“FI® D\rA¬ûá@   A¬£$Ä   BL LacC•W
+B)¨3Ç1ˇ–F3‡e¥2W
+F4Ò˜D2ãM‡FI® CòΩ7A¬£$Ä   A¬ß¡¿   BL LacC•W
+B)¨3P 1ÙÅF3£¨Ë2wsF4÷^¯1´>MFI® CKıƒA¬ß¡¿   A¬¨_    BL LacC•W
+B)¨3 r21˚m‹F3ˆÏH2™Ó∂F5|i2±XFI® CÄ`éA¬¨_    A¬∞¸@   BL LacC•W
+B)¨3˛t1ÛÉ‰F3—ΩÔ2å	OF5ñ®2√•eFI® C~90A¬∞¸@   A¬µôÄ   BL LacC•W
+B)¨2Ìëj1l
+SF3®˝2_Z∏F4‘√_3Z˝FI® Cïw
+A¬µôÄ   A¬∫6¿   BL LacC•W
+B)¨39È1Û»rF4∞y2£Î÷F5M63~‘™FI® Cß‘A¬∫6¿   A¬æ‘    BL LacC•W
+B)¨32ß°2£…F4%X[2»òF5#™É2•¬;FI® C∆îâA¬æ‘    A¬√q@   BL LacC•W
+B)¨3@èå2˙"F4.m¥2´•˙F5MM^2⁄ÈƒFI® D1pA¬√q@   A¬»Ä   BL LacC•W
+B)¨3p9j2zßF4n¡2¿JF5jÖ°2»Ÿ‡FI® D'õPA¬»Ä   A¬Ã´¿   BL LacC•W
+B)¨3ù2*2∞F4}R2ØU F5{>™2–é˙FI® Då,A¬Ã´¿   A¬—I    BL LacC•W
+B)¨4ö2(˝F4ß«¢28≥bF5§¿ 3qÓdFI® EﬁA¬—I    A¬’Ê@   BL LacC•W
+B)¨4x¨Œ2bê*F5æ–2“x…F6õ43xFI® EÆJ∞A¬’Ê@   A¬⁄ÉÄ   BL LacC•W
+B)¨4•¯Ç2ÆòÃF5-¥3S◊F6ÙÈ2Û	äFI® EÜL)A¬⁄ÉÄ   A¬ﬂ ¿   BL LacC•W
+B)¨4ò»2∫øòF5Áï2•4OF6Ú1ÒõzFI® E<ÒA¬ﬂ ¿   A¬„æ    BL LacC•W
+B)¨4tÁ†2ôâ°F5ó>38íF6-–3,L´FI® EJ´A¬„æ    A¬Ë[@   BL LacC•W
+B)¨4ùwV2ß◊®F5+}—3!F6≥2ÙWFI® EÄ˛ùA¬Ë[@   A¬Ï¯Ä   BL LacC•W
+B)¨4g.¸2\üF4Íˇ∑2»Ô˛F5’?|3}⁄üFI® EâÄ‹A¬Ï¯Ä   A¬Òï¿   BL LacC•W
+B)¨3ò12⁄¢F4VΩ2ìﬁóF5eT2™ΩFI® Dç„ÙA¬Òï¿   A¬ˆ3    BL LacC•W
+B)¨4≤≈2]aµF4§º2€§F5≠«¬2ˆÁ™FI® D“ÖA¬ˆ3    A¬˙–@   BL LacC•W
+B)¨3ßÂ23M•F4D¸©2∑0≥F5a‘3¿òFI® DMÇ¥A¬˙–@   A¬ˇmÄ   BL LacC•W
+B)¨4aög2ûÀNF52O3 ÖF6D˛35ÆFI® EëRA¬ˇmÄ   A√
+¿   BL LacC•W
+B)¨3∆_⁄2LWF4îÉ"2ÍTòF5â>31'íFI® Dy~nA√
+¿   A√®    BL LacC•W
+B)¨4T˝Ÿ2ç_ïF4”™Q2˝}*F5ºßÁ3@˜•FI® Eõ(A√®    A√E@   BL LacC•W
+B)¨3õ~2.π(F4ˇz2üF5 A2êì¢FI® DÆTA√E@   A√‚Ä   BL LacC•W
+B)¨4°2Z∞≈F4èé!2Ÿ¿∫F5üóÉ3gÅFI® D¨•A√‚Ä   A√¿   BL LacC•W
+B)¨4å%Ã2Ö|†F4˘Å3-2F6 @Ô3íFI® EL A√¿   A√    BL LacC•W
+B)¨4ã»n2íÕ‘F5ËH3ëF6 £3÷…FI® EwF⁄A√    A√∫@   BL LacC•W
+B)¨4˝2¿nF5á.‰3*º®F6Åa3÷Ó\FI® Fr€A√∫@   A√$WÄ   BL LacC•W
+B)¨43|Ä2ù]F4ΩŒ˛2öô}F5¬\A3'b~FI® D»∏A√$WÄ   A√(Ù¿   BL LacC•W
+B)¨4-'2É:%F4°ój2È F5±9R3&≈ÙFI® D’¬éA√(Ù¿   A√-í    BL LacC•W
+B)¨3ü≥2*ƒõF4gxj2ƒXÔF5tRD2™KÍFI® DB$ŸA√-í    A√2/@   BL LacC•W
+B)¨4"n–2l1F4úëx2‹"F5üö3òRNFI® DÃí»A√2/@   A√6ÃÄ   BL LacC•W
+B)¨3¶ï¬2jFF4B¿ñ2§ƒÔF5ID2”xâFI® DfÛkA√6ÃÄ   A√;i¿   BL LacC•W
+B)¨3óœ1«ÿF4ˇ
+2Å1F4˚,2äˇ¥FI® CÙä®A√;i¿   A√@    BL LacC•W
+B)¨3[`#1⁄ÂF4Á2nçF5êM33û‘FI® DV'ùA√@    A√D§@   BL LacC•W
+B)¨3®≥˛23]F4í;∂2’TF5åò®3´ÜFI® DÇ®gA√D§@   A√IAÄ   BL LacC•W
+B)¨4,QÖ2ç7F4πÄÀ3”¶F5±(U3FI® D§5A√IAÄ   A√Mﬁ¿   BL LacC•W
+B)¨4k\à2ÒF5o2íH£F6˜3º∂+FI® EVlA√Mﬁ¿   A√R|    BL LacC•W
+B)¨4UõC2âî1F4Ï≥»31uF5ÙÑk3≥åÿFI® E&jYA√R|    A√W@   BL LacC•W
+B)¨4Ñﬁæ2s@pF5ã2B#ıF6¡3}FFI® E´J…A√W@   A√[∂Ä   BL LacC•W
+B)¨4¿Li2Ä∂˛F5¨A2†Ú⁄F6}⁄ı3Ω	ïFI® F/’¶A√[∂Ä   A√`S¿   BL LacC•W
+B)¨4ÎA2ßÄF5áyy3è4F6àHº3…AÙFI® F4ﬂ„A√`S¿   A√dÒ    BL LacC•W
+B)¨4%`2ÄuoF4ﬂ„13 F5„“&3.àFI® E ÿéA√dÒ    A√ié@   BL LacC•W
+B)¨4’¯2}·(F4òWC2Í¨5F5üÄº3j+FI® DâÓA√ié@   A√n+Ä   BL LacC•W
+B)¨4v2{)ÄF4¬.Í3<~F5™´2µFI® D¡ {A√n+Ä   A√r»¿   BL LacC•W
+B)¨3 `\2(SÎF45ïﬂ2¨]F5;æü3y¥FI® DS¿‘A√r»¿   A√wf    BL LacC•W
+B)¨3ì£11Å_6F4+á2ä≥F5C;◊3YŒXFI® DtNA√wf    A√|@   BL LacC•W
+B)¨3¬ru2*Ü⁄F4~¢Ø2∫ã†F5á 3qFI® Dí®QA√|@   A√Ä†Ä   BL LacC•W
+B)¨44÷2]∂[F4πµ«2˚`ŸF5¥°2∑•FI® DŒŒ¸A√Ä†Ä   A√Ö=¿   BL LacC•W
+B)¨4."r2ä<ÓF4˛3®NF5ıÿ2Â≥ˇFI® D˝®aA√Ö=¿   A√â€    BL LacC•W
+B)¨3∞¢2.ê>F4jç73ØF5kâ<3BZdFI® CU_A√â€    A√éx@   BL LacC•W
+B)¨3É1C1IXF46|´2ÜÒF5…3ÖêGFI® Cœd_A√éx@   A√ìÄ   BL LacC•W
+B)¨3•uh26∂"F4
+Ó2°GF5ºˆ3küsFI® D/A√ìÄ   A√ó≤¿   BL LacC•W
+B)¨3·082H_∂F4\Àv2…äF5P{Ã3Ö ›FI® DHóA√ó≤¿   A√úP    BL LacC•W
+B)¨3§ÅH27_kF42P32øcóF5<¿s1™"™FI® DeA√úP    A√†Ì@   BL LacC•W
+B)¨3N*2ŒF4Ú*2∏V¯F5O_3á¥CFI® C≈‹;A√†Ì@   A√•äÄ   BL LacC•W
+B)¨2 §1 ®F3…Æ[2}·wF4¿XÏ3™FI® Cå^„A√•äÄ   A√™'¿   BL LacC•W
+B)¨3wÆ92–˚F4K@’2ùjBF56 #3SÙÿFI® D_≠≤A√™'¿   A√Æ≈    BL LacC•W
+B)¨37]Í2OqF4:π2EK/F57$3Ü¯FI® CÌÍΩA√Æ≈    A√≥b@   BL LacC•W
+B)¨3ük]24/„F4KSÓ2¬	wF5U2í3àãEFI® D.œ,A√≥b@   A√∑ˇÄ   BL LacC•W
+B)¨3"Õ·2 ù&F3˝ìs2|X#F5ëm2≤ﬂvFI® CÆ⁄BA√∑ˇÄ   A√ºú¿   BL LacC•W
+B)¨2∑7Ω1« F3øÉ‰2ñOïF4¥Pn3Å'FI® C).ˇA√ºú¿   A√¡:    BL LacC•W
+B)¨2∫É£1•≤êF3Ñ@H2I˚µF4ì—í3*%KFI® C8"˙A√¡:    A√≈◊@   BL LacC•W
+B)¨3'9G0Îs/F4`÷1Íx,F5$Á≈3E'qFI® DaWA√≈◊@   A√ tÄ   BL LacC•W
+B)¨3ò≤Ú2ˆ«F4M/˜1«öÈF5Px.3OhŒFI® Dì≈«A√ tÄ   A√œ¿   BL LacC•W
+B)¨3Î]2a∆EF4ùË…2ÿ„¨F5ëP2ÿspFI® Dém∂A√œ¿   A√”Ø    BL LacC•W
+B)¨3`,2"”*F4Ry¶2—ú«F5?z3ë‚≈FI® Dn/A√”Ø    A√ÿL@   BL LacC•W
+B)¨3•}42/ó™F4VBö2ªù0F5Yc–3 öIFI® DS-?A√ÿL@   A√‹ÈÄ   BL LacC•W
+B)¨3ƒL26áìF4ti‚2Ωß5F5Ü>g3äFI® Dä√lA√‹ÈÄ   A√·Ü¿   BL LacC•W
+B)¨3—P˘2˘ŒF4°y™2≠lQF5õA2Î=òFI® EÔ≥A√·Ü¿   A√Ê$    BL LacC•W
+B)¨3›§Ò2!™˚F4ü!X2≤ˇF5õ∆å2È†àFI® DÒ/¨A√Ê$    A√Í¡@   BL LacC•W
+B)¨3–ÕÚ1ãJF4® u2’%uF5ùÓZ2–√∏FI® D§åûA√Í¡@   A√Ô^Ä   BL LacC•W
+B)¨4bŸä2ëè”F5·)3gßF5˙ÒÈ2Â0∂FI® E5ƒùA√Ô^Ä   A√Û˚¿   BL LacC•W
+B)¨3º]m2T£ìF4àdE2Ü &F5íÛÂ1†|¢FI® DdÿóA√Û˚¿   A√¯ô    BL LacC•W
+B)¨3‰i[2HílF4ä*›2€íÛF5¢Qk3§‚XFI® DïzÅA√¯ô    A√˝6@   BL LacC•W
+B)¨3Ω%â2?âoF4∞i2Ì•GF5Øuﬂ33@FI® D£h:A√˝6@   Aƒ”Ä   BL LacC•W
+B)¨4GW2mïCF4¶)!2‰ÔXF5 a3±…FI® DŒπAƒ”Ä   Aƒp¿   BL LacC•W
+B)¨3rRW2BF42¨0vF5@Ñ3ê´kFI® CÛ@_Aƒp¿   Aƒ    BL LacC•W
+B)¨3ÆÒÎ2+ãˇF4°ÿ2»éüF5Éúl2qùπFI® DÅ\
+Aƒ    Aƒ´@   BL LacC•W
+B)¨3WìG2∑F4òº2ê^*F51vﬁ2⁄ÈÔFI® DìgAƒ´@   AƒHÄ   BL LacC•W
+B)¨3´µ2 √jF4Üô2∏k4F5ÅÒz3DFI® D¢∞¸AƒHÄ   AƒÂ¿   BL LacC•W
+B)¨3T$2$+{F4ƒº2Ø¨[F5pc2ö·FI® CæhAƒÂ¿   AƒÉ    BL LacC•W
+B)¨3",2F4 ~|2ü†+F5/˛2€ˇ‰FI® C™c˜AƒÉ    Aƒ" @   BL LacC•W
+B)¨3≈?1ı$F4+‚$2ê±"F5<K3ÜˇbFI® C⁄lAƒ" @   Aƒ&ΩÄ   BL LacC•W
+B)¨3g%à2†F4d∂H2¡÷ºF5WÌç3 CFI® D$È˚Aƒ&ΩÄ   Aƒ+Z¿   BL LacC•W
+B)¨4rH2A‰∫F4≈ŸI2»íƒF5—i•2÷Ç-FI® E+⁄Aƒ+Z¿   Aƒ/¯    BL LacC•W
+B)¨3`πÏ1‚-⁄F4ıË2π∏F56h,3L‚FFI® DY†«Aƒ/¯    Aƒ4ï@   BL LacC•W
+B)¨3NßI1Õ∂…F4K]2uNªF5/]=1ú3˜FI® DÄ 1Aƒ4ï@   Aƒ92Ä   BL LacC•W
+B)¨2Æ	1•nZT3ïŸÌ2è˝ËF4ó~2™ÇNFI® B®^Aƒ92Ä   Aƒ=œ¿   BL LacC•W
+B)¨2›i1›˝≥F3ñyL2á6ÃF4¡2∑„FI® C+9•Aƒ=œ¿   AƒBm    BL LacC•W
+B)¨3JÛ¥2=F4'»™2ß-F5%EÔ3oìáFI® C¸Z€AƒBm    AƒG
+@   BL LacC•W
+B)¨2ﬂsÀ1«˘F3ÕÙ02ÑúÎF4˜wI2ôwFI® C}N¿AƒG
+@   AƒKßÄ   BL LacC•W
+B)¨2‡¨Ö1™—F3ƒ`X1QKF4Ùïo1/∑FI® C≠lgAƒKßÄ   AƒPD¿   BL LacC•W
+B)¨2Ó1©òF3ñ
+'2J›ŸF4◊ZÙ3/ ƒFI® CΩNAƒPD¿   AƒT‚    BL LacC•W
+B)¨2‡¶D1¬ü`F3û3x2l8ˆF4ö¶D35fÑFI® Cko3AƒT‚    AƒY@   BL LacC•W
+B)¨2Çq≤1Ä˛T3ps€2hÖ≥F4¨e3_ˆ6FI® BÕ˜AƒY@   Aƒ^Ä   BL LacC•W
+B)¨2Ÿ|≥1CF3‚Œ§2¢,ßF4ÌhJ3~ìFI® CE≠Aƒ^Ä   Aƒbπ¿   BL LacC•W
+B)¨2òÅ’1ΩÍ#F3—œ{2ì˙¥F4À§3[RıFI® C7åAƒbπ¿   AƒgW    BL LacC•W
+B)¨3Åk2˘•F3‘
+ñ2íF4ˇâÅ2¨ÀÅFI® CôbüAƒgW    AƒkÙ@   BL LacC•W
+B)¨42(]€F4≤Ç´2µ1F5®«1N~eFI® EÀèAƒkÙ@   AƒpëÄ   BL LacC•W
+B)¨33c0ıø”F3‘yƒ2ñ€F50√2π˙™FI® CÇKùAƒpëÄ   Aƒu.¿   BL LacC•W
+B)¨3Éø2'ÌıF4>Û1ÖmF5(y3»˛FI® C„=5Aƒu.¿   AƒyÃ    BL LacC•W
+B)¨3«ç®2W7NF4ö”2ˆ¯ÑF5èÚ–3∞≤ÂFI® DIË¢AƒyÃ    Aƒ~i@   BL LacC•W
+B)¨4èÓ¡2‡Å˙F54Ò3eÆáF6:åå3!ﬂFI® DÔˇóAƒ~i@   AƒÉÄ   BL LacC•W
+B)¨4do±2ôˇcF5 ”—3!q⁄F6ú≤3≈WFI® E1Ö⁄AƒÉÄ   Aƒá£¿   BL LacC•W
+B)¨4H·y2Ñ˘YF5Ô3P÷F5¸öc3
+FI® E56Aƒá£¿   AƒåA    BL LacC•W
+B)¨4£¡{2≠Ô∑F5DÚô3(ÉF6=Ï"3€I_FI® EçtjAƒåA    Aƒêﬁ@   BL LacC•W
+B)¨4ΩÜ_2ºR¶F5V>334»≈F6P„Ô1∫FI® EñªΩAƒêﬁ@   Aƒï{Ä   BL LacC•W
+B)¨46É2x
+F4≈ 2ÏsåF5…Àp2´Ÿ FI® E	-?Aƒï{Ä   Aƒö¿   BL LacC•W
+B)¨4ãí„1ÀÁÒF5Í˚2ﬂ£ÅF6˚b3j‚FI® EßdiAƒö¿   Aƒû∂    BL LacC•W
+B)¨4Rrû2eVWF4ÓåK2ƒÏ/F5¸ë2Ì˛ FI® E{"UAƒû∂    Aƒ£S@   BL LacC•W
+B)¨4>¬›2ê≠yF4◊¿<3rF5 ÷p2›H∞FI® DË^Aƒ£S@   AƒßÄ   BL LacC•W
+B)¨3ÿk¡2KªF4äÚÏ2“åÂF5å‹ô3	h¬FI® Dë•ÙAƒßÄ   Aƒ¨ç¿   BL LacC•W
+B)¨3ñQW2,ÖlF4b`Q2√ÑÚF5bUC2œíFI® DK<ºAƒ¨ç¿   Aƒ±+    BL LacC•W
+B)¨4:÷2PõˆF4é@¢2Õ‰+F5ô{%2∫~qFI® Dµ7™Aƒ±+    Aƒµ»@   BL LacC•W
+B)¨3«Ì2OBF4ém§2®ÍF5åã±3klFI® Dÿ∂£Aƒµ»@   Aƒ∫eÄ   BL LacC•W
+B)¨3Bé‘1—Ï*F4	UQ2d°ŸF5d◊2ú¶ÖFI® DC#éAƒ∫eÄ   Aƒø¿   BL LacC•W
+B)¨3åRv2èF4m`§2•s~F5=7!3PíâFI® DmJßAƒø¿   Aƒ√†    BL LacC•W
+B)¨36O¶2®WF45RN2âwlF5/˝Ÿ2–ÓáFI® C›∞öAƒ√†    Aƒ»=@   BL LacC•W
+B)¨3P2‹(F4(L2¿KÖF5Q”3{∫FI® Cî^»Aƒ»=@   AƒÃ⁄Ä   BL LacC•W
+B)¨3cìù2vœF4(Eç2´D(F5C!;3Çë∫FI® DÃ…AƒÃ⁄Ä   Aƒ—w¿   BL LacC•W
+B)¨3Ç;2
+KâF40·2ôñ“F5:Ú3a™eFI® DK‹åAƒ—w¿   Aƒ÷    BL LacC•W
+B)¨4§x1uA†F4¢”/2≠WF5ß43q|ƒFI® E{îAƒ÷    Aƒ⁄≤@   BL LacC•W
+B)¨3ËΩd22ùF4≠pí2«Ù^F5π<c3ì§FI® DŒ-Aƒ⁄≤@   AƒﬂOÄ   BL LacC•W
+B)¨3®8÷1{‹'F4K«u2∫>F5F˜”3ÅÁÓFI® D=d+AƒﬂOÄ   Aƒ„Ï¿   BL LacC•W
+B)¨3,vã2ª8F412¨ûπF5'®2úÑ˘FI® CƒpëAƒ„Ï¿   AƒËä    BL LacC•W
+B)¨3q=ø2B-ÂF4Tn2’)èF5-∂l2⁄-FI® CØQ®AƒËä    AƒÌ'@   BL LacC•W
+B)¨3Àiƒ2L∫F41Iı2∏HVF5XkR3àŒ*FI® DP—âAƒÌ'@   AƒÒƒÄ   BL LacC•W
+B)¨2ëºµ1µ`\F4\≤2§àœF5eF3~FI® CÜìKAƒÒƒÄ   Aƒˆa¿   BL LacC•W
+B)¨3„w1ÒG´F3∞Ñû2à?F4çd&1u⁄cFI® C0ô0Aƒˆa¿   Aƒ˙ˇ    BL LacC•W
+B)¨2ª	Î1ƒRœF3íÊ82}gDF4é¬Q3F’FI® CÂiAƒ˙ˇ    Aƒˇú@   BL LacC•W
+B)¨2-Ã1Ä∫F3NÛé2`7—F4ÖB®2Å]]FI® B≠œ˙Aƒˇú@   A≈9Ä   BL LacC•W
+B)¨2„ûQ1>mÓF3ßäÉ2VS¸F4ñ8É1zçFI® CÑGÄA≈9Ä   A≈÷¿   BL LacC•W
+B)¨2…‹%1√3EF3⁄ï·2Ç˘F4”V(1êûƒFI® CÄ?±A≈÷¿   A≈t    BL LacC•W
+B)¨3Z2EÁF4ˆm226$F5õ2Uå´FI® CÜú0A≈t    A≈@   BL LacC•W
+B)¨3D¶ã2	‰ÁF4!aÁ2®úMF51◊3Å{ãFI® CÔYHA≈@   A≈ÆÄ   BL LacC•W
+B)¨39‡M2f†F4uˆ2ìaÍF5áø3k$ÈFI® CÊ–£A≈ÆÄ   A≈K¿   BL LacC•W
+B)¨39·1˙+F4∞2òá◊F5˙2N+‘FI® CÿA≈K¿   A≈È    BL LacC•W
+B)¨3LÚ1Â˛ËF4*72Ñp∞F5§93H≤ùFI® D˛A≈È    A≈$Ü@   BL LacC•W
+B)¨2¡πm1úQMF3”MC2X—NF4·ÇÙ3.ËFI® CπZKA≈$Ü@   A≈)#Ä   BL LacC•W
+B)¨2·åì1ó2úF3¨Qß2E0FF4ßUÜ3∑3FI® C©—ﬂA≈)#Ä   A≈-¿¿   BL LacC•W
+B)¨31≠2"=F3√2õ1p;¿F53î3É⁄uFI® C~MﬂA≈-¿¿   A≈2^    BL LacC•W
+B)¨35”2>aF4~2*ŸF5+ó 2√çËFI® C∆æ•A≈2^    A≈6˚@   BL LacC•W
+B)¨3~oI2!¢—F4@ÏÀ2π˛'F57É—2ÒÔFI® D\óA≈6˚@   A≈;òÄ   BL LacC•W
+B)¨3HG1Â¡ÕF3›ë›2vÜ˝F5q≠3RUFI® D'^A≈;òÄ   A≈@5¿   BL LacC•W
+B)¨2ä*?1åä≈F3|æ02C‘ßF4≈C‚2rOxFI® C@')A≈@5¿   A≈D”    BL LacC•W
+B)¨2ÍHì1¶ıÄF3˘út2mÖ¬F52ç3<≥ FI® C˚ÔÂA≈D”    A≈Ip@   BL LacC•W
+B)¨3Å`
+2ﬁçF4+ıY2±\:F50ºÈ3xøÌFI® DspA≈Ip@   A≈NÄ   BL LacC•W
+B)¨3:û'2ÿF3Ûò(2†™úF5€]1é“wFI® CêS~A≈NÄ   A≈R™¿   BL LacC•W
+B)¨3Z"É2(∆F4o'2∑∫áF5Te2¥ÚFI® C¶',A≈R™¿   A≈WH    BL LacC•W
+B)¨3	ÚE1ıF4Eú2•’¡F5»ô2ÆÍFI® C¬Û.A≈WH    A≈[Â@   BL LacC•W
+B)¨3Ér22x§F4):{2£¥0F5-âÿ3npØFI® DLœA≈[Â@   A≈`ÇÄ   BL LacC•W
+B)¨3 |L1¡AÜF3’ì2Ä6∞F4’^3A
+ùFI® Cù+UA≈`ÇÄ   A≈e¿   BL LacC•W
+B)¨2yp÷1Øˇ4F3®D2ô™œF4âú‘2•Œ†FI® BÑ:ñA≈e¿   A≈iΩ    BL LacC•W
+B)¨33Ï42)F4E≤2£RœF5“Z2ßz’FI® C≤Y)A≈iΩ    A≈nZ@   BL LacC•W
+B)¨3+á|2?ÌF4ê;2ßs¢F5@î2†UtFI® Ci8ÃA≈nZ@   A≈r˜Ä   BL LacC•W
+B)¨2ÃÈ]2{ﬂF3¯’2“"ØF4¸g2Â*∫FI® BÂ[nA≈r˜Ä   A≈wî¿   BL LacC•W
+B)¨2w1™∑F3üR‰2Å\oF4öå˘3RàÏFI® BÈLHA≈wî¿   A≈|2    BL LacC•W
+B)¨28ë«1F\T3Im2^«3F4NÌˆ2ØÒpFI® B@kqA≈|2    A≈Äœ@   BL LacC•W
+B)¨2eœ∑0÷h…T3g$2EZ≥T4&¨3LπJFI® B;·A≈Äœ@   A≈ÖlÄ   BL LacC•W
+B)¨2r^1DõT3JH∫2XBéT3Ò']2jc>TI® @gZ⁄A≈ÖlÄ   A≈ä	¿   BL LacC•W
+B)¨2/Ì
+0∆¬F3ó¸O2p°XF4âh&3A∂ÑFI® BÔô˝A≈ä	¿   A≈éß    BL LacC•W
+B)¨2O‰1ÄRXF3+U2"ü=F4á8730ƒiFI® BÕôA≈éß    A≈ìD@   BL LacC•W
+B)¨2¨£_1µDF3ëÕ‡1À˝ıF4ñSl2yã¸FI® C
+¡FA≈ìD@   A≈ó·Ä   BL LacC•W
+B)¨2≥'Y1“L…F3®KÛ2Ñ∆8T4sX3KıåFI® B ÜA≈ó·Ä   A≈ú~¿   BL LacC•W
+B)¨3ôv&2'Ç—F4¿Ú2ßÅCF5vG3bMFI® D#∆©A≈ú~¿   A≈°    BL LacC•W
+B)¨3V«2ÄùF4†72©.F5	<õ2üÕ,FI® C—“‘A≈°    A≈•π@   BL LacC•W
+B)¨2r*>1êáF3ç}"2M!BT4}©Ã3/WKFI® BÕ~∞A≈•π@   A≈™VÄ   BL LacC•W
+B)¨2'µ¥1``ìF32+±2!æÖF4KU‹2DŸ«FI® B†§ÁA≈™VÄ   A≈ÆÛ¿   BL LacC•W
+B)¨2≠ˆ1ç:ûF3qR≥25Ô=F4ò<3V≈FI® C`—RA≈ÆÛ¿   A≈≥ë    BL LacC•W
+B)¨2mø1eÇ±T3N	c29oT4¥2Ì:FI® B#(A≈≥ë    A≈∏.@   BL LacC•W
+B)¨2©Y0åbiT3íH‚1ïòT4GÅ1võhFI® B2˜†A≈∏.@   A≈ºÀÄ   BL LacC•W
+B)¨2º]11«◊ˇF3g6g2g¿∂F4Ñ[‡2zÑFI® CKÅA≈ºÀÄ   A≈¡h¿   BL LacC•W
+B)¨2N/é1ü¥+F3@±ø2^ñZF4bh3=l¯FI® Bç∏äA≈¡h¿   A≈∆    BL LacC•W
+B)¨2#¢ß1^McF36ÔÍ2 F44ø2N™ÄFI® Bª?áA≈∆    A≈ £@   BL LacC•W
+B)¨2Q;‰1k!EF3FÉ‹1ﬂÖ–F4û!È2Äo.FI® CŒ‚A≈ £@   A≈œ@Ä   BL LacC•W
+B)¨2ë„-1˜$T3§◊†2Ö@ÂF4¢H3böyFI® B»áA≈œ@Ä   A≈”›¿   BL LacC•W
+B)¨2™k61£•T3ê>R2Åµ‰F4y8Ë2áÌFI® Bé(A≈”›¿   A≈ÿ{    BL LacC•W
+B)¨2ËñÖ1‰˛T2± o.%è«T4è±N2’æéTI® AO≤†A≈ÿ{    A≈›@   BL LacC•W
+B)¨2Z”‚1p•KT3oËÆ2â[∂F4<c∫3V=ˇFI® BäˆA≈›@   A≈·µÄ   BL LacC•W
+B)¨3§1ı‚_F3±ó÷2Ü´≠F4—Ã 2≤¶∂FI® CNÚÿA≈·µÄ   A≈ÊR¿   BL LacC•W
+B)¨2∂xê1•‡ÉT3v¶„2N[äT4-sÑ2§»wFI® Bø∑A≈ÊR¿   A≈Í    BL LacC•W
+B)¨2°(O1ÉÙÒT3Ä-◊2âÛkF4ú™Ö2¶lFI® B©øA≈Í    A≈Ôç@   BL LacC•W
+B)¨2¢K91çÉT3ØÉ2U]ıT4E..3NË÷FI® B;Ó°A≈Ôç@   A≈Ù*Ä   BL LacC•W
+B)¨2&61x›T3[êQ2Kø9T4ÑÏ;2z…–TI® A«ú¡A≈Ù*Ä   A≈¯«¿   BL LacC•W
+B)¨2'¡Ú1k”F3"À°20ìñF4I3(Ù˚FI® BÊöQA≈¯«¿   A≈˝e    BL LacC•W
+B)¨2ÿˆê1‹ªwF3ñ:2¶¬NF4ëP;1W≥xFI® Cí{A≈˝e    A∆@   BL LacC•W
+B)¨3A3ˆ2©≠F4.|2∂^≠F5?‡¬1ùÂJFI® CÒúµA∆@   A∆üÄ   BL LacC•W
+B)¨2‘ZX1ŒrfF3í•Ö2zŒ¶F4û †2:ß…FI® CƒA∆üÄ   A∆<¿   BL LacC•W
+B)¨2÷•#1ƒËüF3ù™2ÄöñF4ïYÒ3GKüFI® CIRA∆<¿   A∆⁄    BL LacC•W
+B)¨2⁄Òè1¥⁄íF3£2fX$F4 áa3HÈzFI® CxSóA∆⁄    A∆w@   BL LacC•W
+B)¨2à71ãº@F2ıπ22œF49|ò2}¢4FI® Bø ËA∆w@   A∆Ä   BL LacC•W
+B)¨2O4<1g•2F3Å9*2.⁄F4äæ2H5FI® C7Á®A∆Ä   A∆±¿   BL LacC•W
+B)¨2í”Ω1ΩË˘F3ërÏ1Ój«T4m˘H2|AxFI® BêH±A∆±¿   A∆"O    BL LacC•W
+B)¨2¯2KΩF3⁄c2ô“ÆF4˘⁄D2¢Ø’FI® CT98A∆"O    A∆&Ï@   BL LacC•W
+B)¨2}YU1Nr#F3¡ôÎ2çjÍF4£g3OπoFI® Ck¥A∆&Ï@   A∆+âÄ   BL LacC•W
+B)¨2Y˙¿1û¨/F3;ıK1êVÜF4;˜¢2õÛ>FI® BärπA∆+âÄ   A∆0&¿   BL LacC•W
+B)¨2çó=0sW9F3ØŸÅ1Ä*õF4Ω+»2[KFI® Cb≠qA∆0&¿   A∆4ƒ    BL LacC•W
+B)¨2Ùu1KR≥F3¯2ê]T4í˚1V"»FI® Bj˜A∆4ƒ    A∆9a@   BL LacC•W
+B)¨2cpY1ézëF3◊2(PœF4ƒ˚2kjFI® BôÊA∆9a@   A∆=˛Ä   BL LacC•W
+B)¨2Ü^0œ‰∆T3JØ91ﬁßF4%Eı2Ö,1FI® B‹˛A∆=˛Ä   A∆Bõ¿   BL LacC•W
+B)¨2æÑ˜1∞{F3≠Cƒ2ë´µF4„˜î2Ø®ÉFI® C(≤∂A∆Bõ¿   A∆G9    BL LacC•W
+B)¨3›^®2W?uF4†‹M2]‚øF5§7Ú1≥üFI® Düù>A∆G9    A∆K÷@   BL LacC•W
+B)¨3‡*2RÊF4œ˝ß2¯uÒF5◊BS2X^±FI® D⁄ZA∆K÷@   A∆PsÄ   BL LacC•W
+B)¨3–§‹2yúF4í®2≠ı„F5ûπ2Æ#¬FI® D·*ÚA∆PsÄ   A∆U¿   BL LacC•W
+B)¨2‘åc0◊ÆµF3∫ù2òxzF4Õåæ1â)√FI® C˜ÅA∆U¿   A∆YÆ    BL LacC•W
+B)¨4ﬂÑ-2»VŸF5m«∑3 ÃdF6Åm,1Í«FI® E÷”PA∆YÆ    A∆^K@   BL LacC•W
+B)¨4MF2ö®F59j3"onF6[1„eSFI® E "3A∆^K@   A∆bËÄ   BL LacC•W
+B)¨3Zfª2<9•F4= é2Î ëF5O_ä3ª\ÁFI® Cö˚kA∆bËÄ   A∆gÖ¿   BL LacC•W
+B)¨3:fÖ2tYF4?⁄ç2ΩldF51&ü2ÚWFI® CÍ-bA∆gÖ¿   A∆l#    BL LacC•W
+B)¨3°z2-sÁF4,U2.(F5_äÇ2ã†FI® DC∏A∆l#    A∆p¿@   BL LacC•W
+B)¨3≠-?29qŒF4J≈X2ªVˆF5uÒí1òVYFI® DH—fA∆p¿@   A∆u]Ä   BL LacC•W
+B)¨3v≈2 XF4Pí2≥bóF4ÓÖ+2´∏—FI® Cà3kA∆u]Ä   A∆y˙¿   BL LacC•W
+B)¨3)ß¢1˜HPF4&Ù2¨ÁFF5*Ÿû1ã0QFI® CÊ°˚A∆y˙¿   A∆~ò    BL LacC•W
+B)¨3;·”1ZÚF4k2.gâF5n1cÅxFI® D8πA∆~ò    A∆É5@   BL LacC•W
+B)¨3Z0ê,êF4/˘®2◊jF5(Ô2æ¥ªFI® DA≤A∆É5@   A∆á“Ä   BL LacC•W
+B)¨3R;&1Y€F4&Oˆ2¢TåF5*≠•2ùÁWFI® C‹≠TA∆åo¿   A∆ë    BL LacC•W
+B)¨3&fà1NïF3”Œ2	©F4ÿ˙@2œ!nFI® CÖÃ´A∆ë    A∆ï™@   BL LacC•W
+B)¨2µƒ¸1ÕHF3≥ØR2EF4ÿ 3p?FI® C◊[A∆ï™@   A∆öGÄ   BL LacC•W
+B)¨3◊w1≈`vF3¶r`2I€˜F4÷ y3.˛FI® C€–ÎA∆öGÄ   A∆û‰¿   BL LacC•W
+B)¨3€K1Ω¨F3ﬁó$2Q8ºF5 $õ2≤;FI® DuoA∆û‰¿   A∆£Ç    BL LacC•W
+B)¨3œä1—ì≥F3∞≠1ñc7F4◊"é2¡ÇëFI® Cî}lA∆£Ç    A∆®@   BL LacC•W
+B)¨2gª‘1±∞F3äKÊ2Ä†F4ï8¨2òYÄFI® B∏5∑A∆®@   A∆¨ºÄ   BL LacC•W
+B)¨2„&1öù¡F3∞!2áV5F4∂j3XÛtFI® C+UPA∆¨ºÄ   A∆±Y¿   BL LacC•W
+B)¨43˚2zòñF5 ıe1áŒ∞F5ÍíÅ1 ≠?FI® E%ËøA∆±Y¿   A∆µ˜    BL LacC•W
+B)¨3F¸M1\[XF4r26ÆAF5“Ù3P‹FI® DÆ,A∆µ˜    A∆∫î@   BL LacC•W
+B)¨2'0·⁄¡F3èˇ2=øìF4ôeØ3)S∆FI® C,qA∆∫î@   A∆ø1Ä   BL LacC•W
+B)¨2"ß™0˛£GF3[”q2@≈«T4HÒ—2]Á7FI® Bá¶UA∆ø1Ä   A∆√Œ¿   BL LacC•W
+B)¨2{‡80;ÀT3W◊ö1ÄT≥T4R∞ß2«Ù#FI® B5ÌA∆√Œ¿   A∆»l    BL LacC•W
+B)¨2√¥0·ÈT3zv∞2[ËÚT4—∑2p0kFI® BìÀA∆»l    A∆Õ	@   BL LacC•W
+B)¨2ÅÙü1Áü»F3æ;2âæ T4Øÿo2”^—FI® Bé™MA∆Õ	@   A∆—¶Ä   BL LacC•W
+B)¨2YC0ê!FT3[è2d≈‚F4ôp·2Çè FI® B•^ùA∆—¶Ä   A∆÷C¿   BL LacC•W
+B)¨2{ñ1v6T3çkµ2p ¬T3√ﬁk1ÁFI® B$“◊A∆÷C¿   A∆⁄·    BL LacC•W
+B)¨2cÔX1NMzT3h'2`ò≈T4ãs2T>¸FI® BIÉA∆⁄·    A∆ﬂ~@   BL LacC•W
+B)¨2Zœ¯1b∂ËT3DU20±T40;Ì3$˚TTI® AóöôA∆ﬂ~@   A∆‰Ä   BL LacC•W
+B)¨2cÃ0Ò›|F3FÛ∏2LüÆF4Z2≥éRFI® BØ0ÓA∆‰Ä   A∆Ë∏¿   BL LacC•W
+B)¨3>]Ÿ1◊ÔHF3´e™2Y´5F4¸IŒ2ì•ÜFI® CÏ;≈A∆Ë∏¿   A∆ÌV    BL LacC•W
+B)¨2îA1'ÌÖF3,61µ2ÆF4{À2ö/UFI® B∫°¸A∆ÌV    A∆ÒÛ@   BL LacC•W
+B)¨2}/˛1/pF3û√¸2uøT4“ı2c•FI® Bx¬ﬁA∆ÒÛ@   A∆ˆêÄ   BL LacC•W
+B)¨2e-Ô1è6»F3êa«1ﬁùÃT4U›1˚ÄFI® BäÔuA∆ˆêÄ   A∆˚-¿   BL LacC•W
+B)¨2âñU1B\F31A∞2;CF4[•O2EjüFI® Bø‹QA∆˚-¿   A∆ˇÀ    BL LacC•W
+B)¨2¢ôÅ1ß{F3ï
+31^õGF4u˛1R	…FI® BÁå•A∆ˇÀ    A«h@   BL LacC•W
+B)¨2ïZ≈1ñ∏\F3ik°2E±ßF4lΩ1T9FI® C¯_A«h@   A«	Ä   BL LacC•W
+B)¨2‡£o1´Y1F3∏¬2H∫ŸF4©=2áŸFI® Cß˜ÔA«	Ä   A«¢¿   BL LacC•W
+B)¨2¢ j1†¢hT3|l2`«T3ÓÔÑ1.FI® A‰RA«¢¿   A«@    BL LacC•W
+B)¨2Ÿn1ŒBT3úg∫2Ñ~ÅT4wJ2¢|FI® AÒÎΩA«@    A«›@   BL LacC•W
+B)¨2±Ω˚1«:T3^Å1wR†F4<£
+2—„åFI® BbÓbA«›@   A«zÄ   BL LacC•W
+B)¨2V√Ù0´ÕbT2 °2
+º˘T3î0B3/pTI® A,¬TA«zÄ   A« ¿   BL LacC•W
+B)¨1˘ñã0∂$∑F35542
+,T3≠]D2k¬;FI® B;‘A« ¿   A«$µ    BL LacC•W
+B)¨2˙0∫Õ£F3&w2,óoF3’“40È[çFI® Br¸NA«$µ    A«)R@   BL LacC•W
+B)¨2oYM0¨T3¡22eÅF4^a3òdFI® BD%]A«)R@   A«-ÔÄ   BL LacC•W
+B)¨2ùÃ0∂ÈÚF2~5?0¯)*T3û”¡1ÇSFI® A˛WYA«-ÔÄ   A«2å¿   BL LacC•W
+B)¨2d—„1uÚñT3™˜2/À=T4j!Ï1qNtTI® AÇ∫ÜA«2å¿   A«7*    BL LacC•W
+B)¨2ƒ‰Ñ1’;uF3áNâ2^ûF4PœÖ1”ÅFI® BÏIoA«7*    A«;«@   BL LacC•W
+B)¨2Rí∞1ôU£F3Jùã2b®™F4Vó'2oWˆFI® B°µ◊A«;«@   A«@dÄ   BL LacC•W
+B)¨2õƒ1DF3RDC19™F49f…0¸I˜FI® CS∫A«@dÄ   A«E¿   BL LacC•W
+B)¨1”í1v T3MÚﬁ2Nç¨F4I≈„2ÅDaFI® BvNA«E¿   A«Iü    BL LacC•W
+B)¨2qØG1•ˆ€F3$;ò21˚/T3^3+©£FI® BN]A«Iü    A«N<@   BL LacC•W
+B)¨2Àsﬂ1ﬁ˙åF3àâ˜1|cF4í2îO8FI® BÙ&…A«N<@   A«RŸÄ   BL LacC•W
+B)¨2ñº—1—zÖF3†œR2êËGT4]k3{.9FI® BäƒA«RŸÄ   A«Wv¿   BL LacC•W
+B)¨2G˙	1UãäT3i¨X2[ÃúT4Jk	1DIÓTI® A†á»A«Wv¿   A«\    BL LacC•W
+B)¨2W¿¿1l/àT3ñÇB2g∑T4Zµ°3F`FI® B\ A«\    A«`±@   BL LacC•W
+B)¨2Éˆ1w%üT3xÀ2"¥'T3…€∑3*K†FI® B g„A«`±@   A«eNÄ   BL LacC•W
+B)¨2∂gÆ1Ö˝T3wÀ≈2jlF4'*U2`´4FI® B(vA«eNÄ   A«iÎ¿   BL LacC•W
+B)¨2x`1jÈtT3B£2gÓF4Ñ;2Ö¿FI® B}\A«iÎ¿   A«nâ    BL LacC•W
+B)¨2`L˜0˛ŒF33a91Œ`¡F4¯˛3ÍFI® BeB)A«nâ    A«s&@   BL LacC•W
+B)¨2U¬∆1ÅF35ÿ2¿iT4/3)ÇFI® BëËêA«s&@   A«w√Ä   BL LacC•W
+B)¨2í÷S0ú≈òT3r…2Ä1ÖF4aL°3FYFI® Bg©dA«w√Ä   A«|`¿   BL LacC•W
+B)¨2í$P1ªπCF3zGÄ2t˚ûF4 î3B±≠FI® B«jÌA«|`¿   A«Ä˛    BL LacC•W
+B)¨2∑L1#®F3VF2f:ÂF4P£{3&ÅFI® BÂÅáA«Ä˛    A«Öõ@   BL LacC•W
+B)¨2r…m1a&F32e2@YF4ÅßQ3Sd+FI® BØÙ.A«Öõ@   A«ä8Ä   BL LacC•W
+B)¨2aˆ1Ä
+4F3i9˚1 Ÿ¿F4äg2F}]FI® C)§A«ä8Ä   A«é’¿   BL LacC•W
+B)¨2*Å0ŒBGF2Ïµ¨1r+&F3¯¯y2ÆÙÔFI® Bô∆˜A«é’¿   A«ìs    BL LacC•W
+B)¨2I<1	C˜F3wîZ2,sF47òÕ0˝áœFI® B‡=AA«ìs    A«ò@   BL LacC•W
+B)¨2dÀA1 ‡bF3ìƒ2ÑÂfF4uÊJ2õN∑FI® B¿ó®A«ò@   A«ú≠Ä   BL LacC•W
+B)¨2sPû1µ%F3åD2hæT4]õª1JÛjFI® BöŸCA«ú≠Ä   A«°J¿   BL LacC•W
+B)¨2…MB1ÀçF3ç\÷2ÄØ¨F4•ò@3QI<FI® Cx»A«°J¿   A«•Ë    BL LacC•W
+B)¨2ÉÆ&1ãÎÏF3öÈ⁄2aù◊F4íkˆ33ê‰FI® C4QêA«•Ë    A«™Ö@   BL LacC•W
+B)¨2Ä&41Å¥®F3Äq˙2GF~F4dÂ1çõFI® CŒùA«™Ö@   A«Ø"Ä   BL LacC•W
+B)¨2WE>1ä_ƒF3_öa1Ñ∏!F4s/ö1-˜§FI® BÆÿA«Ø"Ä   A«≥ø¿   BL LacC•W
+B)¨2ã=d1•xF3q§·2yF4B>>2·óSFI® B±èiA«≥ø¿   A«∏]    BL LacC•W
+B)¨2øË1.2øT3x;≤2PÕÔT3—‡t1&ê¨FI® AˆXA«∏]    A«º˙@   BL LacC•W
+B)¨2âPa0¶¡FT3~˚v2[ÍT3ºó{2-v%FI® B≠_A«º˙@   A«¡óÄ   BL LacC•W
+B)¨1Ïôå/ıÌYT3ä&Á2[¯MT4.æœ1nÔÍFI® BhMA«¡óÄ   A«∆4¿   BL LacC•W
+B)¨2∑òﬁ1°zT3’Ã2DªüF4K]é3$ÚFI® BÑTA«∆4¿   A« “    BL LacC•W
+B)¨2ò‡æ0¯˚†F3gê™2g-nF4àZ3[óPFI® B∑∫‹A« “    A«œo@   BL LacC•W
+B)¨3≤◊1'éF3ÉÕI0ËîæF4új2≥C·FI® COù˛A«œo@   A«‘Ä   BL LacC•W
+B)¨3˙Ö0¸èF3¿hN24≥F4¿AO2U∑˜FI® C}ÿ%A«‘Ä   A«ÿ©¿   BL LacC•W
+B)¨2,W1/‘-T3a 2-F48÷É2Cƒ)FI® B_|¶A«ÿ©¿   A«›G    BL LacC•W
+B)¨2ê0ã”CT3)ù<2.d>T4^_2Ó\nTI® Aô¥AA«›G    A«·‰@   BL LacC•W
+B)¨2xåf1xôT3Å	2W|T4(¯1r’FI® B∆AA«·‰@   A«ÊÅÄ   BL LacC•W
+B)¨2Sç1õ’gF3I2cáOF4<B13πFI® B[´A«ÊÅÄ   A«Î¿   BL LacC•W
+B)¨2,∆q1,Ø´F3ù4∆1ÍÜ F4§øü2ñ'ßFI® BÍÓ~A«Î¿   A«Ôº    BL LacC•W
+B)¨2êê∞1$M
+F3oé2T∫—F4ä1+ãHFI® CGA«Ôº    A«ÙY@   BL LacC•W
+B)¨2ûˆH0vuÕF3ys$2AnwF4åﬁ1$l∂FI® C<hA«ÙY@   A«¯ˆÄ   BL LacC•W
+B)¨2ò∂ƒ1[%£F3Ñ‚]2:)jF4´Õ∏2eø›FI® Cj)“A«¯ˆÄ   A«˝ì¿   BL LacC•W
+B)¨2˚$Â1‘“F3¥†&2~ú$F4¢Ó2kÅ€FI® CWø√A«˝ì¿   A»1    BL LacC•W
+B)¨2—ﬂ1Ü⁄T3¡#"2ß	µF4‘–*3‰ZFI® BÓõA»1    A»Œ@   BL LacC•W
+B)¨2ó‹w0Û˙ΩF3î“∑2w~4F4ÅwS2-©
+FI® C
+¿UA»Œ@   A»kÄ   BL LacC•W
+B)¨2Xv˘1î]oF3n‡(1œ& T4}±¡2{Ë=FI® B¶°&A»kÄ   A»¿   BL LacC•W
+B)¨2\ÆP0Õv"F3ﬂ¸2%GáF4R4»3"ÉöFI® BŒænA»¿   A»¶    BL LacC•W
+B)¨2®¨¡1ì2F3äß
+1¨Ô·F4Ç¨M1†¨FI® CV±ΩA»¶    A»C@   BL LacC•W
+B)¨2éÆœ0¢∞T3g*1¿∞ﬂT4jî29\3FI® BH»A»C@   A»‡Ä   BL LacC•W
+B)¨2åÎA1Ç;aT3Öó˛2X@@T4˝u1.‰SFI® BAÔA»‡Ä   A»"}¿   BL LacC•W
+B)¨1È*Ô1 /F3Åµ2[∏íT3–Y’26änFI® B%MÛA»"}¿   A»'    BL LacC•W
+B)¨2| ó1-V.F3ÅÌd1Ò¨ÔT4Øã2)˘”FI® B°BœA»'    A»+∏@   BL LacC•W
+B)¨2™ﬁõ1òéT3égÊ2]›{T4M¥°2.%FI® B[ﬁ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
