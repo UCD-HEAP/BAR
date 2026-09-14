@@ -1,0 +1,42 @@
+/*
+**
+**  Swift/XRT light curve for CGRaBS J0211+1051.
+**
+**  Data taken from the automatic processing at http://www.swift.psu.edu/monitoring/
+**
+**  When using these data and results in publications, please reference M.C. Stroh & A.D. Falcone 2013, ApJS, 207, 28; arXiv: 1305.4949.
+**
+**  Key:
+**
+**   BinCenter      - Center of time bin (MJD)
+**   BinHW          - One-half of the full time bin size (days)
+**   Rate           - The background subtracted, PSF corrected and pile-up corrected source count rate (cts/s).
+**   RateError      - 1 sigma error in source count rate (cts/s)
+**   FracExp        - Conversion factor between bin size and observing time
+**   Mode           - 0 if in Windowed Timing (WT)
+**                    1 if in Photon Counting (PC)
+**
+**
+**  Upper limits have an error listed as -1.00000.
+**
+*/
+      BinCenter          BinHW           Rate      RateError        FracExp  Mode
+   55260.503484       0.501143        0.17866        0.01891        0.00938     1
+   55360.683925       0.036154        0.16908        0.01039        0.31597     1
+   55586.970219       0.125456        0.24201        0.01052        0.17766     1
+   55590.069564       0.104002        0.25819        0.00913        0.21228     1
+   55592.728225       0.074051        0.25111        0.01132        0.26500     1
+   55595.866067       0.133910        0.25748        0.00920        0.16613     1
+   55886.388900       0.005534        0.13978        0.01382        0.98257     1
+   58445.902185       0.038086        0.05074        0.00655        0.25433     1
+   58466.552915       0.299617        0.02852        0.00593        0.02206     1
+   58487.396239       0.035689        0.04703        0.00729        0.21255     1
+   58508.981932       0.635402        0.03705        0.00543        0.01761     1
+   58529.202311       0.067790        0.10496        0.00784        0.18348     1
+   58665.168923       0.033670        0.31573        0.02160        0.24791     1
+   58666.125627       0.005752        0.52187        0.02717        0.98225     1
+   58668.185291       0.005665        0.36249        0.02188        0.97732     1
+   59013.400003       0.004822        0.13709        0.01631        0.98147     1
+   59014.723294       0.003079        0.12890        0.01757        0.99133     1
+   59020.698064       0.002629        0.08013        0.02266        0.98385     1
+   59021.032180       0.003225        0.07367        0.01345        0.97855     1

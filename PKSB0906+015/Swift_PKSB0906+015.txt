@@ -1,0 +1,39 @@
+/*
+**
+**  Swift/XRT light curve for PKS B0906+015.
+**
+**  Data taken from the automatic processing at http://www.swift.psu.edu/monitoring/
+**
+**  When using these data and results in publications, please reference M.C. Stroh & A.D. Falcone 2013, ApJS, 207, 28; arXiv: 1305.4949.
+**
+**  Key:
+**
+**   BinCenter      - Center of time bin (MJD)
+**   BinHW          - One-half of the full time bin size (days)
+**   Rate           - The background subtracted, PSF corrected and pile-up corrected source count rate (cts/s).
+**   RateError      - 1 sigma error in source count rate (cts/s)
+**   FracExp        - Conversion factor between bin size and observing time
+**   Mode           - 0 if in Windowed Timing (WT)
+**                    1 if in Photon Counting (PC)
+**
+**
+**  Upper limits have an error listed as -1.00000.
+**
+*/
+      BinCenter          BinHW           Rate      RateError        FracExp  Mode
+   54533.515525       0.173303        0.09837        0.00463        0.20010     1
+   55259.623248       0.076723        0.03470        0.00701        0.13132     1
+   55260.485447       0.000058        0.65885       -1.00000        0.99892     1
+   55264.400334       0.235080        0.05793        0.00803        0.03873     1
+   55265.510163       0.005084        0.02398       -1.00000        0.98202     1
+   55265.545225       0.370704        0.05638        0.00480        0.06666     1
+   55304.317478       0.070695        0.13306        0.00777        0.23738     1
+   56098.809544       0.160463        0.09367        0.00602        0.13846     1
+   56099.316570       0.143105        0.09412        0.00566        0.19098     1
+   56748.701241       0.034832        0.04045        0.00987        0.08513     1
+   56753.126168       0.002280        0.06097        0.01484        0.98190     1
+   56831.068811       0.238116        0.04011        0.00414        0.08022     1
+   56832.269802       0.240614        0.04763        0.00610        0.04408     1
+   56930.200221       0.138631        0.06419        0.00559        0.13863     1
+   56931.428043       0.374728        0.06331        0.00946        0.01515     1
+   58909.706742       0.006377        0.07717        0.00962        0.97039     1
