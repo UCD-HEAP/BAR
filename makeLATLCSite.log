@@ -1,0 +1,326 @@
+/Users/veritas/Git/LAT_LCs/Cat3FGL.py:204: IntegrationWarning: The integral is probably divergent, or slowly convergent.
+  result=integrate.quad(self.spectral_model,E_low_MeV, E_high_MeV)
+****************************************
+TXS2358+209
+Cat3FGL:select_object() Found TXS2358+209
+TXS2358+209 Swift LC not found!
+****************************************
+FermiJ0008+6829
+Cat3FGL:select_object() did not find match for FERMIJ0008+6829
+FermiJ0008+6829 Swift LC not found!
+****************************************
+PMNJ0017-0512
+Cat3FGL:select_object() Found PMNJ0017-0512
+PMNJ0017-0512 https://www.swift.psu.edu/monitoring/source.php?source=PMNJ0017-0512
+****************************************
+FermiJ0052+1110
+Cat3FGL:select_object() did not find match for FERMIJ0052+1110
+FermiJ0052+1110 Swift LC not found!
+****************************************
+TXS0059+581
+Cat3FGL:select_object() Found TXS0059+581
+TXS0059+581 https://www.swift.psu.edu/monitoring/source.php?source=TXS0059+581
+****************************************
+4C31.03
+Cat3FGL:select_object() Found 4C+31.03
+4C31.03 https://www.swift.psu.edu/monitoring/source.php?source=4C31.03
+****************************************
+CGRaBSJ0211+1051
+Cat3FGL:select_object() Found MG1J021114+1051
+CGRaBSJ0211+1051 https://www.swift.psu.edu/monitoring/source.php?source=CGRaBSJ0211+1051
+****************************************
+S30218+35
+Cat3FGL:select_object() Found B0218+357
+S30218+35 https://www.swift.psu.edu/monitoring/source.php?source=S30218+35
+****************************************
+3C66A
+Cat3FGL:select_object() Found 3C66A
+3C66A https://www.swift.psu.edu/monitoring/source.php?source=3C66A
+****************************************
+4C+28.07
+Cat3FGL:select_object() Found 4C+28.07
+4C+28.07 https://www.swift.psu.edu/monitoring/source.php?source=4C+28.07
+****************************************
+0235+164
+Cat3FGL:select_object() Found AO0235+164
+0235+164 https://www.swift.psu.edu/monitoring/source.php?source=PKS0235+164
+****************************************
+LSI+61303
+Cat3FGL:select_object() Found LSI+61303
+LSI+61303 https://www.swift.psu.edu/monitoring/source.php?source=LSI+61303
+****************************************
+NGC1275
+Cat3FGL:select_object() Found NGC1275
+NGC1275 https://www.swift.psu.edu/monitoring/source.php?source=3C84
+****************************************
+1H0323+342
+Cat3FGL:select_object() Found 1H0323+342
+1H0323+342 Swift LC not found!
+****************************************
+PKS0336-01
+Cat3FGL:select_object() Found PKS0336-01
+PKS0336-01 https://www.swift.psu.edu/monitoring/source.php?source=0336-019
+****************************************
+TXS0358+210
+Cat3FGL:select_object() Found TXS0358+210
+TXS0358+210 Swift LC not found!
+****************************************
+FermiJ0431+5458
+Cat3FGL:select_object() did not find match for FERMIJ0431+5458
+FermiJ0431+5458 Swift LC not found!
+****************************************
+3C120
+Cat3FGL:select_object() did not find match for 3C120
+3C120 https://www.swift.psu.edu/monitoring/source.php?source=3C120
+****************************************
+NRAO190
+Cat3FGL:select_object() Found S30458-02
+NRAO190 https://www.swift.psu.edu/monitoring/source.php?source=PKS0458-02
+****************************************
+PKS0502+049
+Cat3FGL:select_object() Found PKS0502+049
+PKS0502+049 https://www.swift.psu.edu/monitoring/source.php?source=PKS0502+049
+****************************************
+PKS0507+17
+Cat3FGL:select_object() Found PKS0507+17
+PKS0507+17 https://www.swift.psu.edu/monitoring/source.php?source=PKS0507+17
+****************************************
+3C138
+Cat3FGL:select_object() did not find match for 3C138
+3C138 Swift LC not found!
+****************************************
+VER0521+211
+Cat3FGL:select_object() Found TXS0518+211
+VER0521+211 https://www.swift.psu.edu/monitoring/source.php?source=VERJ0521+212
+****************************************
+OG050
+Cat3FGL:select_object() Found OG050
+OG050 Swift LC not found!
+****************************************
+CrabPulsar
+Cat3FGL:select_object() did not find match for CRABPULSAR
+CrabPulsar Swift LC not found!
+****************************************
+FermiJ0614+1713
+Cat3FGL:select_object() did not find match for FERMIJ0614+1713
+FermiJ0614+1713 Swift LC not found!
+****************************************
+B20619+33
+Cat3FGL:select_object() Found B20619+33
+B20619+33 https://www.swift.psu.edu/monitoring/source.php?source=B20619+33
+****************************************
+B30650+453
+Cat3FGL:select_object() Found B30650+453
+B30650+453 https://www.swift.psu.edu/monitoring/source.php?source=B30650+453
+****************************************
+GB6J0713+5738
+Cat3FGL:select_object() did not find match for GB6J0713+5738
+GB6J0713+5738 https://www.swift.psu.edu/monitoring/source.php?source=GB6J0713+5738
+****************************************
+MG2J071354+1934
+Cat3FGL:select_object() Found MG2J071354+1934
+MG2J071354+1934 Swift LC not found!
+****************************************
+0716+714
+Cat3FGL:select_object() Found S50716+71
+0716+714 https://www.swift.psu.edu/monitoring/source.php?source=S50716+714
+****************************************
+4C14.23
+Cat3FGL:select_object() Found 4C+14.23
+4C14.23 Swift LC not found!
+****************************************
+PKS0736+01
+Cat3FGL:select_object() Found PKS0736+01
+PKS0736+01 https://www.swift.psu.edu/monitoring/source.php?source=PKS0736+01
+****************************************
+BZUJ0742+5444
+Cat3FGL:select_object() Found GB6J0742+5444
+BZUJ0742+5444 Swift LC not found!
+****************************************
+OI280
+Cat3FGL:select_object() Found OI280
+OI280 Swift LC not found!
+****************************************
+0827+243
+Cat3FGL:select_object() Found OJ248
+0827+243 https://www.swift.psu.edu/monitoring/source.php?source=QSOB0827+243
+****************************************
+OJ287
+Cat3FGL:select_object() Found OJ287
+OJ287 https://www.swift.psu.edu/monitoring/source.php?source=OJ287
+****************************************
+PKSB0906+015
+Cat3FGL:select_object() Found PKS0906+01
+PKSB0906+015 https://www.swift.psu.edu/monitoring/source.php?source=PKSB0906+015
+****************************************
+3C216
+Cat3FGL:select_object() did not find match for 3C216
+3C216 Swift LC not found!
+****************************************
+OK+630
+Cat3FGL:select_object() did not find match for OK+630
+OK+630 Swift LC not found!
+****************************************
+PG1553+113
+Cat3FGL:select_object() Found PG1553+113
+PG1553+113 https://www.swift.psu.edu/monitoring/source.php?source=PG1553+113
+****************************************
+TCrB
+Cat3FGL:select_object() did not find match for TCRB
+TCrB Swift LC not found!
+****************************************
+OS300
+Cat3FGL:select_object() did not find match for OS300
+OS300 https://www.swift.psu.edu/monitoring/source.php?source=OS300
+****************************************
+4C+10.45
+Cat3FGL:select_object() Found 4C+10.45
+4C+10.45 Swift LC not found!
+****************************************
+0FGLJ1641.4+3939
+Cat3FGL:select_object() Found 3C345
+0FGLJ1641.4+3939 Swift LC not found!
+****************************************
+Mrk501
+Cat3FGL:select_object() Found MKN501
+Mrk501 https://www.swift.psu.edu/monitoring/source.php?source=Mrk501
+****************************************
+GB6J1700+6830
+Cat3FGL:select_object() Found TXS1700+685
+GB6J1700+6830 https://www.swift.psu.edu/monitoring/source.php?source=GB6J1700+6830
+****************************************
+4FGLJ1706.8+1319
+Cat3FGL:select_object() did not find match for 4FGLJ1706.8+1319
+4FGLJ1706.8+1319 Swift LC not found!
+****************************************
+B31708+433
+Cat3FGL:select_object() Found B31708+433
+B31708+433 https://www.swift.psu.edu/monitoring/source.php?source=B31708+433
+****************************************
+S41726+45
+Cat3FGL:select_object() Found S41726+45
+S41726+45 Swift LC not found!
+****************************************
+PKS1725+123
+Cat3FGL:select_object() Found PKS1725+123
+PKS1725+123 Swift LC not found!
+****************************************
+OT355
+Cat3FGL:select_object() did not find match for OT355
+OT355 Swift LC not found!
+****************************************
+S41749+70
+Cat3FGL:select_object() Found S41749+70
+S41749+70 https://www.swift.psu.edu/monitoring/source.php?source=S41749+70
+****************************************
+RSOph
+Cat3FGL:select_object() did not find match for RSOPH
+RSOph Swift LC not found!
+****************************************
+OT081
+Cat3FGL:select_object() Found OT081
+OT081 https://www.swift.psu.edu/monitoring/source.php?source=OT081
+****************************************
+S41800+44
+Cat3FGL:select_object() Found S41800+44
+S41800+44 https://www.swift.psu.edu/monitoring/source.php?source=S41800+44
+****************************************
+CGRaBSJ1848+3219
+Cat3FGL:select_object() Found B21846+32A
+CGRaBSJ1848+3219 https://www.swift.psu.edu/monitoring/source.php?source=CGRaBSJ1848+3219
+****************************************
+B21846+32B
+Cat3FGL:select_object() did not find match for B21846+32B
+B21846+32B https://www.swift.psu.edu/monitoring/source.php?source=B21846+32B
+****************************************
+CGRaBSJ1849+6705
+Cat3FGL:select_object() Found S41849+67
+CGRaBSJ1849+6705 https://www.swift.psu.edu/monitoring/source.php?source=CGRaBSJ1849+6705
+****************************************
+3C395
+Cat3FGL:select_object() did not find match for 3C395
+3C395 Swift LC not found!
+****************************************
+TXS1923+123
+Cat3FGL:select_object() Found TXS1923+123
+TXS1923+123 Swift LC not found!
+****************************************
+1ES1959+650
+Cat3FGL:select_object() Found 1ES1959+650
+1ES1959+650 https://www.swift.psu.edu/monitoring/source.php?source=1ES1959+650
+****************************************
+TXS2013+370
+Cat3FGL:select_object() did not find match for TXS2013+370
+TXS2013+370 https://www.swift.psu.edu/monitoring/source.php?source=TXS2013+370
+****************************************
+PKS2023-07
+Cat3FGL:select_object() Found PKS2023-07
+PKS2023-07 https://www.swift.psu.edu/monitoring/source.php?source=PKS2023-07
+****************************************
+CygnusX-3
+Cat3FGL:select_object() did not find match for CYGNUSX-3
+CygnusX-3 Swift LC not found!
+****************************************
+TXS2032+117
+Cat3FGL:select_object() Found TXS2032+117
+TXS2032+117 Swift LC not found!
+****************************************
+PKS2032+107
+Cat3FGL:select_object() Found PKS2032+107
+PKS2032+107 https://www.swift.psu.edu/monitoring/source.php?source=PKS2032+107
+****************************************
+TXS2138+527
+Cat3FGL:select_object() did not find match for TXS2138+527
+TXS2138+527 Swift LC not found!
+****************************************
+OX169
+Cat3FGL:select_object() Found OX169
+OX169 https://www.swift.psu.edu/monitoring/source.php?source=S32141+17
+****************************************
+PKS2144+092
+Cat3FGL:select_object() Found PKS2144+092
+PKS2144+092 https://www.swift.psu.edu/monitoring/source.php?source=PKS2144+092
+****************************************
+BLLac
+Cat3FGL:select_object() Found BLLAC
+BLLac https://www.swift.psu.edu/monitoring/source.php?source=BLLacertae
+****************************************
+3C446
+Cat3FGL:select_object() Found 3C446
+3C446 https://www.swift.psu.edu/monitoring/source.php?source=3C446
+****************************************
+CTA102
+Cat3FGL:select_object() Found CTA102
+CTA102 https://www.swift.psu.edu/monitoring/source.php?source=CTA102
+****************************************
+7C2238+5117
+Cat3FGL:select_object() did not find match for 7C2238+5117
+7C2238+5117 Swift LC not found!
+****************************************
+TXS2241+406
+Cat3FGL:select_object() Found TXS2241+406
+TXS2241+406 https://www.swift.psu.edu/monitoring/source.php?source=TXS2241+406
+****************************************
+PKS2246+208
+Cat3FGL:select_object() did not find match for PKS2246+208
+PKS2246+208 Swift LC not found!
+****************************************
+3C454.3
+Cat3FGL:select_object() Found 3C454.3
+3C454.3 https://www.swift.psu.edu/monitoring/source.php?source=3C454.3
+****************************************
+PKSB2258-022
+Cat3FGL:select_object() did not find match for PKSB2258-022
+PKSB2258-022 Swift LC not found!
+****************************************
+4C+27.50
+Cat3FGL:select_object() Found 4C+27.50
+4C+27.50 Swift LC not found!
+****************************************
+PKS2320-035
+Cat3FGL:select_object() Found PKS2320-035
+PKS2320-035 https://www.swift.psu.edu/monitoring/source.php?source=PKS2320-035
+****************************************
+1ES2344+514
+Cat3FGL:select_object() Found 1ES2344+514
+1ES2344+514 https://www.swift.psu.edu/monitoring/source.php?source=1ES2344+514
