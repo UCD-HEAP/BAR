@@ -1,0 +1,382 @@
+/Users/veritas/Git/LAT_LCs/Cat3FGL.py:204: IntegrationWarning: The integral is probably divergent, or slowly convergent.
+  result=integrate.quad(self.spectral_model,E_low_MeV, E_high_MeV)
+****************************************
+TXS2358+209
+Cat3FGL:select_object() Found TXS2358+209
+Error downloading Swift Lightcurve file! continuing without.
+TXS2358+209 Swift LC not found!
+****************************************
+FermiJ0008+6829
+Cat3FGL:select_object() did not find match for FERMIJ0008+6829
+Error downloading Swift Lightcurve file! continuing without.
+FermiJ0008+6829 Swift LC not found!
+****************************************
+PMNJ0017-0512
+Cat3FGL:select_object() Found PMNJ0017-0512
+Error downloading Swift Lightcurve file! continuing without.
+PMNJ0017-0512 Swift LC not found!
+****************************************
+FermiJ0052+1110
+Cat3FGL:select_object() did not find match for FERMIJ0052+1110
+Error downloading Swift Lightcurve file! continuing without.
+FermiJ0052+1110 Swift LC not found!
+****************************************
+TXS0059+581
+Cat3FGL:select_object() Found TXS0059+581
+Error downloading Swift Lightcurve file! continuing without.
+TXS0059+581 Swift LC not found!
+****************************************
+4C31.03
+Cat3FGL:select_object() Found 4C+31.03
+Error downloading Swift Lightcurve file! continuing without.
+4C31.03 Swift LC not found!
+****************************************
+CGRaBSJ0211+1051
+Cat3FGL:select_object() Found MG1J021114+1051
+Error downloading Swift Lightcurve file! continuing without.
+CGRaBSJ0211+1051 Swift LC not found!
+****************************************
+S30218+35
+Cat3FGL:select_object() Found B0218+357
+Error downloading Swift Lightcurve file! continuing without.
+S30218+35 Swift LC not found!
+****************************************
+3C66A
+Cat3FGL:select_object() Found 3C66A
+Error downloading Swift Lightcurve file! continuing without.
+3C66A Swift LC not found!
+****************************************
+4C+28.07
+Cat3FGL:select_object() Found 4C+28.07
+Error downloading Swift Lightcurve file! continuing without.
+4C+28.07 Swift LC not found!
+****************************************
+0235+164
+Cat3FGL:select_object() Found AO0235+164
+Error downloading Swift Lightcurve file! continuing without.
+0235+164 Swift LC not found!
+****************************************
+LSI+61303
+Cat3FGL:select_object() Found LSI+61303
+Error downloading Swift Lightcurve file! continuing without.
+LSI+61303 Swift LC not found!
+****************************************
+NGC1275
+Cat3FGL:select_object() Found NGC1275
+Error downloading Swift Lightcurve file! continuing without.
+NGC1275 Swift LC not found!
+****************************************
+1H0323+342
+Cat3FGL:select_object() Found 1H0323+342
+Error downloading Swift Lightcurve file! continuing without.
+1H0323+342 Swift LC not found!
+****************************************
+PKS0336-01
+Cat3FGL:select_object() Found PKS0336-01
+Error downloading Swift Lightcurve file! continuing without.
+PKS0336-01 Swift LC not found!
+****************************************
+TXS0358+210
+Cat3FGL:select_object() Found TXS0358+210
+Error downloading Swift Lightcurve file! continuing without.
+TXS0358+210 Swift LC not found!
+****************************************
+FermiJ0431+5458
+Cat3FGL:select_object() did not find match for FERMIJ0431+5458
+Error downloading Swift Lightcurve file! continuing without.
+FermiJ0431+5458 Swift LC not found!
+****************************************
+3C120
+Cat3FGL:select_object() did not find match for 3C120
+Error downloading Swift Lightcurve file! continuing without.
+3C120 Swift LC not found!
+****************************************
+NRAO190
+Cat3FGL:select_object() Found S30458-02
+Error downloading Swift Lightcurve file! continuing without.
+NRAO190 Swift LC not found!
+****************************************
+PKS0502+049
+Cat3FGL:select_object() Found PKS0502+049
+Error downloading Swift Lightcurve file! continuing without.
+PKS0502+049 Swift LC not found!
+****************************************
+PKS0507+17
+Cat3FGL:select_object() Found PKS0507+17
+Error downloading Swift Lightcurve file! continuing without.
+PKS0507+17 Swift LC not found!
+****************************************
+3C138
+Cat3FGL:select_object() did not find match for 3C138
+Error downloading Swift Lightcurve file! continuing without.
+3C138 Swift LC not found!
+****************************************
+VER0521+211
+Cat3FGL:select_object() Found TXS0518+211
+Error downloading Swift Lightcurve file! continuing without.
+VER0521+211 Swift LC not found!
+****************************************
+OG050
+Cat3FGL:select_object() Found OG050
+Error downloading Swift Lightcurve file! continuing without.
+OG050 Swift LC not found!
+****************************************
+CrabPulsar
+Cat3FGL:select_object() did not find match for CRABPULSAR
+Error downloading Swift Lightcurve file! continuing without.
+CrabPulsar Swift LC not found!
+****************************************
+FermiJ0614+1713
+Cat3FGL:select_object() did not find match for FERMIJ0614+1713
+Error downloading Swift Lightcurve file! continuing without.
+FermiJ0614+1713 Swift LC not found!
+****************************************
+B20619+33
+Cat3FGL:select_object() Found B20619+33
+Error downloading Swift Lightcurve file! continuing without.
+B20619+33 Swift LC not found!
+****************************************
+B30650+453
+Cat3FGL:select_object() Found B30650+453
+Error downloading Swift Lightcurve file! continuing without.
+B30650+453 Swift LC not found!
+****************************************
+GB6J0713+5738
+Cat3FGL:select_object() did not find match for GB6J0713+5738
+Error downloading Swift Lightcurve file! continuing without.
+GB6J0713+5738 Swift LC not found!
+****************************************
+MG2J071354+1934
+Cat3FGL:select_object() Found MG2J071354+1934
+Error downloading Swift Lightcurve file! continuing without.
+MG2J071354+1934 Swift LC not found!
+****************************************
+0716+714
+Cat3FGL:select_object() Found S50716+71
+Error downloading Swift Lightcurve file! continuing without.
+0716+714 Swift LC not found!
+****************************************
+4C14.23
+Cat3FGL:select_object() Found 4C+14.23
+Error downloading Swift Lightcurve file! continuing without.
+4C14.23 Swift LC not found!
+****************************************
+PKS0736+01
+Cat3FGL:select_object() Found PKS0736+01
+Error downloading Swift Lightcurve file! continuing without.
+PKS0736+01 Swift LC not found!
+****************************************
+BZUJ0742+5444
+Cat3FGL:select_object() Found GB6J0742+5444
+Error downloading Swift Lightcurve file! continuing without.
+BZUJ0742+5444 Swift LC not found!
+****************************************
+OI280
+Cat3FGL:select_object() Found OI280
+Error downloading Swift Lightcurve file! continuing without.
+OI280 Swift LC not found!
+****************************************
+0827+243
+Cat3FGL:select_object() Found OJ248
+Error downloading Swift Lightcurve file! continuing without.
+0827+243 Swift LC not found!
+****************************************
+OJ287
+Cat3FGL:select_object() Found OJ287
+Error downloading Swift Lightcurve file! continuing without.
+OJ287 Swift LC not found!
+****************************************
+PKSB0906+015
+Cat3FGL:select_object() Found PKS0906+01
+Error downloading Swift Lightcurve file! continuing without.
+PKSB0906+015 Swift LC not found!
+****************************************
+3C216
+Cat3FGL:select_object() did not find match for 3C216
+Error downloading Swift Lightcurve file! continuing without.
+3C216 Swift LC not found!
+****************************************
+OK+630
+Cat3FGL:select_object() did not find match for OK+630
+Error downloading Swift Lightcurve file! continuing without.
+OK+630 Swift LC not found!
+****************************************
+PMNJ0948+0022
+Cat3FGL:select_object() Found PMNJ0948+0022
+Error downloading Swift Lightcurve file! continuing without.
+PMNJ0948+0022 Swift LC not found!
+****************************************
+TXS0946+181
+Cat3FGL:select_object() did not find match for TXS0946+181
+Error downloading Swift Lightcurve file! continuing without.
+TXS0946+181 Swift LC not found!
+****************************************
+S40954+65
+Cat3FGL:select_object() Found S40954+65
+Error downloading Swift Lightcurve file! continuing without.
+S40954+65 Swift LC not found!
+****************************************
+4C+40.25
+Cat3FGL:select_object() Found 4C+40.25
+Error downloading Swift Lightcurve file! continuing without.
+4C+40.25 Swift LC not found!
+****************************************
+S41030+61
+Cat3FGL:select_object() Found S41030+61
+Error downloading Swift Lightcurve file! continuing without.
+S41030+61 Swift LC not found!
+****************************************
+S51044+71
+Cat3FGL:select_object() Found S51044+71
+Error downloading Swift Lightcurve file! continuing without.
+S51044+71 Swift LC not found!
+****************************************
+4C+01.28
+Cat3FGL:select_object() Found 4C+01.28
+Error downloading Swift Lightcurve file! continuing without.
+4C+01.28 Swift LC not found!
+****************************************
+Mrk421
+Cat3FGL:select_object() Found MKN421
+Error downloading Swift Lightcurve file! continuing without.
+Mrk421 Swift LC not found!
+****************************************
+B21144+40
+Cat3FGL:select_object() Found S41144+40
+Error downloading Swift Lightcurve file! continuing without.
+B21144+40 Swift LC not found!
+****************************************
+1150+497
+Cat3FGL:select_object() Found OM484
+Error downloading Swift Lightcurve file! continuing without.
+1150+497 Swift LC not found!
+****************************************
+S41800+44
+Cat3FGL:select_object() Found S41800+44
+Error downloading Swift Lightcurve file! continuing without.
+S41800+44 Swift LC not found!
+****************************************
+CGRaBSJ1848+3219
+Cat3FGL:select_object() Found B21846+32A
+Error downloading Swift Lightcurve file! continuing without.
+CGRaBSJ1848+3219 Swift LC not found!
+****************************************
+B21846+32B
+Cat3FGL:select_object() did not find match for B21846+32B
+Error downloading Swift Lightcurve file! continuing without.
+B21846+32B Swift LC not found!
+****************************************
+CGRaBSJ1849+6705
+Cat3FGL:select_object() Found S41849+67
+Error downloading Swift Lightcurve file! continuing without.
+CGRaBSJ1849+6705 Swift LC not found!
+****************************************
+3C395
+Cat3FGL:select_object() did not find match for 3C395
+Error downloading Swift Lightcurve file! continuing without.
+3C395 Swift LC not found!
+****************************************
+TXS1923+123
+Cat3FGL:select_object() Found TXS1923+123
+Error downloading Swift Lightcurve file! continuing without.
+TXS1923+123 Swift LC not found!
+****************************************
+1ES1959+650
+Cat3FGL:select_object() Found 1ES1959+650
+Error downloading Swift Lightcurve file! continuing without.
+1ES1959+650 Swift LC not found!
+****************************************
+TXS2013+370
+Cat3FGL:select_object() did not find match for TXS2013+370
+Error downloading Swift Lightcurve file! continuing without.
+TXS2013+370 Swift LC not found!
+****************************************
+PKS2023-07
+Cat3FGL:select_object() Found PKS2023-07
+Error downloading Swift Lightcurve file! continuing without.
+PKS2023-07 Swift LC not found!
+****************************************
+CygnusX-3
+Cat3FGL:select_object() did not find match for CYGNUSX-3
+Error downloading Swift Lightcurve file! continuing without.
+CygnusX-3 Swift LC not found!
+****************************************
+TXS2032+117
+Cat3FGL:select_object() Found TXS2032+117
+Error downloading Swift Lightcurve file! continuing without.
+TXS2032+117 Swift LC not found!
+****************************************
+PKS2032+107
+Cat3FGL:select_object() Found PKS2032+107
+Error downloading Swift Lightcurve file! continuing without.
+PKS2032+107 Swift LC not found!
+****************************************
+TXS2138+527
+Cat3FGL:select_object() did not find match for TXS2138+527
+Error downloading Swift Lightcurve file! continuing without.
+TXS2138+527 Swift LC not found!
+****************************************
+OX169
+Cat3FGL:select_object() Found OX169
+Error downloading Swift Lightcurve file! continuing without.
+OX169 Swift LC not found!
+****************************************
+PKS2144+092
+Cat3FGL:select_object() Found PKS2144+092
+Error downloading Swift Lightcurve file! continuing without.
+PKS2144+092 Swift LC not found!
+****************************************
+BLLac
+Cat3FGL:select_object() Found BLLAC
+Error downloading Swift Lightcurve file! continuing without.
+BLLac Swift LC not found!
+****************************************
+3C446
+Cat3FGL:select_object() Found 3C446
+Error downloading Swift Lightcurve file! continuing without.
+3C446 Swift LC not found!
+****************************************
+CTA102
+Cat3FGL:select_object() Found CTA102
+Error downloading Swift Lightcurve file! continuing without.
+CTA102 Swift LC not found!
+****************************************
+7C2238+5117
+Cat3FGL:select_object() did not find match for 7C2238+5117
+Error downloading Swift Lightcurve file! continuing without.
+7C2238+5117 Swift LC not found!
+****************************************
+TXS2241+406
+Cat3FGL:select_object() Found TXS2241+406
+Error downloading Swift Lightcurve file! continuing without.
+TXS2241+406 Swift LC not found!
+****************************************
+PKS2246+208
+Cat3FGL:select_object() did not find match for PKS2246+208
+Error downloading Swift Lightcurve file! continuing without.
+PKS2246+208 Swift LC not found!
+****************************************
+3C454.3
+Cat3FGL:select_object() Found 3C454.3
+Error downloading Swift Lightcurve file! continuing without.
+3C454.3 Swift LC not found!
+****************************************
+PKSB2258-022
+Cat3FGL:select_object() did not find match for PKSB2258-022
+Error downloading Swift Lightcurve file! continuing without.
+PKSB2258-022 Swift LC not found!
+****************************************
+4C+27.50
+Cat3FGL:select_object() Found 4C+27.50
+Error downloading Swift Lightcurve file! continuing without.
+4C+27.50 Swift LC not found!
+****************************************
+PKS2320-035
+Cat3FGL:select_object() Found PKS2320-035
+Error downloading Swift Lightcurve file! continuing without.
+PKS2320-035 Swift LC not found!
+****************************************
+1ES2344+514
+Cat3FGL:select_object() Found 1ES2344+514
+Error downloading Swift Lightcurve file! continuing without.
+1ES2344+514 Swift LC not found!
