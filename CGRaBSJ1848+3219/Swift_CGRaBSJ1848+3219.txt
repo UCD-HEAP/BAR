@@ -1,0 +1,32 @@
+/*
+**
+**  Swift/XRT light curve for CGRaBS J1848+3219.
+**
+**  Data taken from the automatic processing at http://www.swift.psu.edu/monitoring/
+**
+**  When using these data and results in publications, please reference M.C. Stroh & A.D. Falcone 2013, ApJS, 207, 28; arXiv: 1305.4949.
+**
+**  Key:
+**
+**   BinCenter      - Center of time bin (MJD)
+**   BinHW          - One-half of the full time bin size (days)
+**   Rate           - The background subtracted, PSF corrected and pile-up corrected source count rate (cts/s).
+**   RateError      - 1 sigma error in source count rate (cts/s)
+**   FracExp        - Conversion factor between bin size and observing time
+**   Mode           - 0 if in Windowed Timing (WT)
+**                    1 if in Photon Counting (PC)
+**
+**
+**  Upper limits have an error listed as -1.00000.
+**
+*/
+      BinCenter          BinHW           Rate      RateError        FracExp  Mode
+   54828.988107       0.976431        0.02067        0.00181        0.05296     1
+   54882.573164       0.539272        0.02099        0.00179        0.13726     1
+   55488.703259       0.070318        0.10159        0.00640        0.35140     1
+   55492.431943       0.042371        0.09598        0.00645        0.39837     1
+   55492.561097       0.298600        0.10081        0.00714        0.05688     1
+   55496.581879       0.043780        0.09956        0.00971        0.35711     1
+   55496.907067       0.040134        0.09495        0.00826        0.25831     1
+   58758.341449       0.071712        0.03295        0.00603        0.10479     1
+   58762.192998       0.006987        0.03008        0.00602        0.96481     1

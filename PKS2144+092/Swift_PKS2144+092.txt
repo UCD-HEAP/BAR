@@ -1,0 +1,27 @@
+/*
+**
+**  Swift/XRT light curve for PKS 2144+092.
+**
+**  Data taken from the automatic processing at http://www.swift.psu.edu/monitoring/
+**
+**  When using these data and results in publications, please reference M.C. Stroh & A.D. Falcone 2013, ApJS, 207, 28; arXiv: 1305.4949.
+**
+**  Key:
+**
+**   BinCenter      - Center of time bin (MJD)
+**   BinHW          - One-half of the full time bin size (days)
+**   Rate           - The background subtracted, PSF corrected and pile-up corrected source count rate (cts/s).
+**   RateError      - 1 sigma error in source count rate (cts/s)
+**   FracExp        - Conversion factor between bin size and observing time
+**   Mode           - 0 if in Windowed Timing (WT)
+**                    1 if in Photon Counting (PC)
+**
+**
+**  Upper limits have an error listed as -1.00000.
+**
+*/
+      BinCenter          BinHW           Rate      RateError        FracExp  Mode
+   54949.246897       0.196108        0.03864        0.00323        0.15536     1
+   54949.712489       0.139575        0.03698        0.00390        0.14068     1
+   55019.431360       0.168597        0.03947        0.00530        0.08399     1
+   55884.267528       0.640079        0.05037        0.00369        0.04799     1
