@@ -1,0 +1,34 @@
+/*
+**
+**  Swift/XRT light curve for OS 300.
+**
+**  Data taken from the automatic processing at http://www.swift.psu.edu/monitoring/
+**
+**  When using these data and results in publications, please reference M.C. Stroh & A.D. Falcone 2013, ApJS, 207, 28; arXiv: 1305.4949.
+**
+**  Key:
+**
+**   BinCenter      - Center of time bin (MJD)
+**   BinHW          - One-half of the full time bin size (days)
+**   Rate           - The background subtracted, PSF corrected and pile-up corrected source count rate (cts/s).
+**   RateError      - 1 sigma error in source count rate (cts/s)
+**   FracExp        - Conversion factor between bin size and observing time
+**   Mode           - 0 if in Windowed Timing (WT)
+**                    1 if in Photon Counting (PC)
+**
+**
+**  Upper limits have an error listed as -1.00000.
+**
+*/
+      BinCenter          BinHW           Rate      RateError        FracExp  Mode
+   56224.007393       0.005069        0.02035       -1.00000        0.89937     1
+   56246.596719       0.001104        0.04797       -1.00000        0.97261     1
+   56247.393181       0.001249        0.03153       -1.00000        0.97072     1
+   56257.680857       0.007292        0.01361        0.00395        0.97773     1
+   56258.950162       0.007466        0.01380        0.00369        0.96693     1
+   58050.259941       0.004619        0.02272       -1.00000        0.97184     1
+   59569.201050       0.170427        0.01898        0.00380        0.06561     1
+   59571.287536       0.535365        0.01550        0.00324        0.02263     1
+   59575.367118       0.033031        0.02853        0.00452        0.34074     1
+   59578.584849       0.207482        0.03355        0.00507        0.05049     1
+   59581.110103       0.066265        0.01765        0.00376        0.16540     1
